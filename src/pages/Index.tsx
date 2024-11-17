@@ -2,7 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Input } from "@/components/ui/input";
 import { fetchWarframeData } from "@/lib/warframeData";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Search } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
 
@@ -16,14 +16,16 @@ const Index = () => {
     retry: 3,
   });
 
-  // Show error toast when fetch fails
-  if (error) {
-    toast({
-      title: "Error",
-      description: "Failed to fetch Warframe drop data. Please try again later.",
-      variant: "destructive",
-    });
-  }
+  // Show error toast when fetch fails using useEffect
+  useEffect(() => {
+    if (error) {
+      toast({
+        title: "Error",
+        description: "Failed to fetch Warframe drop data. Please try again later.",
+        variant: "destructive",
+      });
+    }
+  }, [error, toast]);
 
   // Filter locations based on search term
   const filteredLocations = Object.entries(dropData || {}).filter(([location]) =>
