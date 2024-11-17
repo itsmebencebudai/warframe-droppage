@@ -1,10 +1,17 @@
 import { useQuery } from "@tanstack/react-query";
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Input } from "@/components/ui/input";
 import { fetchWarframeData } from "@/lib/warframeData";
 import { useState } from "react";
 import { Search } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
+import {
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ui/table";
 
 const Index = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -25,16 +32,22 @@ const Index = () => {
     });
   }
 
-  // Filter items based on search term
-  const filteredLocations = Object.entries(dropData || {}).reduce((acc, [location, items]) => {
-    const filteredItems = items.filter(item => 
+  // Transform data for table display
+  const tableData = Object.entries(dropData || {}).reduce((acc, [location, items]) => {
+    const matchingItems = items.filter(item => 
       item.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
-    if (filteredItems.length > 0) {
-      acc[location] = filteredItems;
-    }
+    
+    matchingItems.forEach(item => {
+      acc.push({
+        name: item.name,
+        dropChance: item.dropChance,
+        location: location
+      });
+    });
+    
     return acc;
-  }, {} as Record<string, { name: string; dropChance: number; }[]>);
+  }, [] as Array<{ name: string; dropChance: number; location: string; }>);
 
   return (
     <div className="min-h-screen p-4 md:p-8">
@@ -66,35 +79,31 @@ const Index = () => {
           </div>
         )}
 
-        {!isLoading && !error && (
-          <Accordion type="single" collapsible className="space-y-4">
-            {Object.entries(filteredLocations).map(([location, items]) => (
-              <AccordionItem
-                key={location}
-                value={location}
-                className="border rounded-lg overflow-hidden"
-              >
-                <AccordionTrigger className="px-4 py-3 hover:bg-muted/5">
-                  <span>{location}</span>
-                </AccordionTrigger>
-                <AccordionContent>
-                  <div className="px-4 py-2 space-y-2">
-                    {items.map((item, index) => (
-                      <div
-                        key={`${item.name}-${index}`}
-                        className="flex justify-between items-center py-2 border-b last:border-0"
-                      >
-                        <span>{item.name}</span>
-                        <span className="text-primary">
-                          {item.dropChance.toFixed(2)}%
-                        </span>
-                      </div>
-                    ))}
-                  </div>
-                </AccordionContent>
-              </AccordionItem>
-            ))}
-          </Accordion>
+        {!isLoading && !error && tableData.length > 0 && (
+          <Table>
+            <TableHeader>
+              <TableRow>
+                <TableHead>Item Name</TableHead>
+                <TableHead>Drop Chance</TableHead>
+                <TableHead>Location</TableHead>
+              </TableRow>
+            </TableHeader>
+            <TableBody>
+              {tableData.map((item, index) => (
+                <TableRow key={`${item.name}-${item.location}-${index}`}>
+                  <TableCell>{item.name}</TableCell>
+                  <TableCell>{item.dropChance.toFixed(2)}%</TableCell>
+                  <TableCell>{item.location}</TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        )}
+
+        {!isLoading && !error && tableData.length === 0 && searchTerm && (
+          <div className="text-center py-12 text-muted-foreground">
+            No items found matching your search.
+          </div>
         )}
       </div>
     </div>
