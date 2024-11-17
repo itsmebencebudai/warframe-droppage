@@ -13,14 +13,17 @@ const Index = () => {
   const { data: dropData, isLoading, error } = useQuery({
     queryKey: ['warframeDrops'],
     queryFn: fetchWarframeData,
-    onError: () => {
-      toast({
-        title: "Error",
-        description: "Failed to fetch Warframe drop data. Please try again later.",
-        variant: "destructive",
-      });
-    },
+    retry: 3,
   });
+
+  // Show error toast when fetch fails
+  if (error) {
+    toast({
+      title: "Error",
+      description: "Failed to fetch Warframe drop data. Please try again later.",
+      variant: "destructive",
+    });
+  }
 
   // Filter locations based on search term
   const filteredLocations = Object.entries(dropData || {}).filter(([location]) =>
@@ -54,12 +57,6 @@ const Index = () => {
           <div className="text-center py-12">
             <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-warframe-accent mx-auto"></div>
             <p className="mt-4 text-warframe-light/80">Loading drop data...</p>
-          </div>
-        )}
-
-        {error && (
-          <div className="text-center py-12 text-red-400">
-            <p>Failed to load drop data. Please try again later.</p>
           </div>
         )}
 
