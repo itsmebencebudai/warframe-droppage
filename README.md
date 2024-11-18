@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Warframe Droppage
+
+A web application for searching Warframe item drop locations and chances.
 
 ## Project info
 
