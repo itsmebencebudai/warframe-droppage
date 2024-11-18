@@ -1,6 +1,6 @@
 import { useQuery } from "@tanstack/react-query";
 import { Input } from "@/components/ui/input";
-import { fetchWarframeData } from "@/lib/warframeData";
+import { fetchWarframeData, fetchWarframeDataFromSource } from "@/lib/warframeData";
 import { useState } from "react";
 import { Search } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
@@ -30,7 +30,7 @@ const Index = () => {
   
   const { data: dropData, isLoading, error } = useQuery({
     queryKey: ['warframeDrops'],
-    queryFn: fetchWarframeData,
+    queryFn: fetchWarframeDataFromSource,
     retry: 3,
   });
 
