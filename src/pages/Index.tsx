@@ -13,6 +13,13 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+import {
   Pagination,
   PaginationContent,
   PaginationItem,
@@ -26,6 +33,7 @@ const ITEMS_PER_PAGE = 10;
 const Index = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc");
   const { toast } = useToast();
   
   const { data: dropData, isLoading, error } = useQuery({
@@ -43,7 +51,7 @@ const Index = () => {
     });
   }
 
-  // Transform data for table display
+  // Transform and sort data for table display
   const tableData = Object.entries(dropData || {}).reduce((acc, [location, items]) => {
     const matchingItems = items.filter(item => 
       item.name.toLowerCase().includes(searchTerm.toLowerCase())
@@ -60,10 +68,19 @@ const Index = () => {
     return acc;
   }, [] as Array<{ name: string; dropChance: number; location: string; }>);
 
+  // Sort the data based on item names
+  const sortedData = [...tableData].sort((a, b) => {
+    if (sortOrder === "asc") {
+      return a.name.localeCompare(b.name);
+    } else {
+      return b.name.localeCompare(a.name);
+    }
+  });
+
   // Pagination logic
-  const totalPages = Math.ceil(tableData.length / ITEMS_PER_PAGE);
+  const totalPages = Math.ceil(sortedData.length / ITEMS_PER_PAGE);
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const paginatedData = tableData.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  const paginatedData = sortedData.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
@@ -82,18 +99,32 @@ const Index = () => {
           </p>
         </div>
 
-        <div className="relative mb-8">
-          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" />
-          <Input
-            type="text"
-            placeholder="Search for items..."
-            className="pl-10"
-            value={searchTerm}
-            onChange={(e) => {
-              setSearchTerm(e.target.value);
-              setCurrentPage(1); // Reset to first page on new search
-            }}
-          />
+        <div className="flex flex-col md:flex-row gap-4 mb-8">
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" />
+            <Input
+              type="text"
+              placeholder="Search for items..."
+              className="pl-10"
+              value={searchTerm}
+              onChange={(e) => {
+                setSearchTerm(e.target.value);
+                setCurrentPage(1);
+              }}
+            />
+          </div>
+          <Select
+            value={sortOrder}
+            onValueChange={(value: "asc" | "desc") => setSortOrder(value)}
+          >
+            <SelectTrigger className="w-[180px]">
+              <SelectValue placeholder="Sort order" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="asc">A-Z</SelectItem>
+              <SelectItem value="desc">Z-A</SelectItem>
+            </SelectContent>
+          </Select>
         </div>
 
         {isLoading && (
