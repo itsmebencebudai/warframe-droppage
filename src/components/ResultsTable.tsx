@@ -29,25 +29,25 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     }));
   };
 
-  const sortedData = [...data].map(tableData => ({
-    ...tableData,
-    results: [...tableData.results].sort((a, b) => {
-      if (!sortConfig.key) return 0;
-      
-      const aValue = a[sortConfig.key];
-      const bValue = b[sortConfig.key];
+  // Flatten all results into a single array
+  const allResults = data.flatMap(tableData => tableData.results);
 
-      if (typeof aValue === 'number' && typeof bValue === 'number') {
-        return sortConfig.direction === 'asc' ? aValue - bValue : bValue - aValue;
-      }
+  const sortedResults = [...allResults].sort((a, b) => {
+    if (!sortConfig.key) return 0;
+    
+    const aValue = a[sortConfig.key];
+    const bValue = b[sortConfig.key];
 
-      return sortConfig.direction === 'asc' 
-        ? String(aValue).localeCompare(String(bValue))
-        : String(bValue).localeCompare(String(aValue));
-    })
-  }));
+    if (typeof aValue === 'number' && typeof bValue === 'number') {
+      return sortConfig.direction === 'asc' ? aValue - bValue : bValue - aValue;
+    }
 
-  // Get all unique column names from the first result set
+    return sortConfig.direction === 'asc' 
+      ? String(aValue).localeCompare(String(bValue))
+      : String(bValue).localeCompare(String(aValue));
+  });
+
+  // Get all unique column names from the first result
   const getColumnHeaders = () => {
     if (data[0]?.results?.[0]) {
       return Object.keys(data[0].results[0]);
@@ -62,54 +62,30 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
       <Table>
         <TableHeader>
           <TableRow>
-            <TableHead>Table Name</TableHead>
-            <TableHead>
-              <div className="space-y-4">
-                <Table>
-                  <TableHeader>
-                    <TableRow>
-                      {columnHeaders.map((header) => (
-                        <TableHead key={header}>
-                          <Button
-                            variant="ghost"
-                            onClick={() => handleSort(header)}
-                            className="flex items-center gap-2"
-                          >
-                            {header.charAt(0).toUpperCase() + header.slice(1)}
-                            <ArrowUpDown className="h-4 w-4" />
-                          </Button>
-                        </TableHead>
-                      ))}
-                    </TableRow>
-                  </TableHeader>
-                </Table>
-              </div>
-            </TableHead>
+            {columnHeaders.map((header) => (
+              <TableHead key={header}>
+                <Button
+                  variant="ghost"
+                  onClick={() => handleSort(header)}
+                  className="flex items-center gap-2"
+                >
+                  {header.charAt(0).toUpperCase() + header.slice(1)}
+                  <ArrowUpDown className="h-4 w-4" />
+                </Button>
+              </TableHead>
+            ))}
           </TableRow>
         </TableHeader>
         <TableBody>
-          {sortedData.map((tableData, index) => (
-            <TableRow key={`${tableData.table}-${index}`}>
-              <TableCell className="font-medium">
-                {tableData.table}
-              </TableCell>
-              <TableCell>
-                <Table>
-                  <TableBody>
-                    {tableData.results.map((result: any, resultIndex: number) => (
-                      <TableRow key={`${result.id}-${resultIndex}`} className="hover:bg-muted/50">
-                        {columnHeaders.map((header) => (
-                          <TableCell key={header}>
-                            {typeof result[header] === 'number' 
-                              ? Number(result[header]).toFixed(2)
-                              : result[header]}
-                          </TableCell>
-                        ))}
-                      </TableRow>
-                    ))}
-                  </TableBody>
-                </Table>
-              </TableCell>
+          {sortedResults.map((result: any, resultIndex: number) => (
+            <TableRow key={`result-${resultIndex}`} className="hover:bg-muted/50">
+              {columnHeaders.map((header) => (
+                <TableCell key={header}>
+                  {typeof result[header] === 'number' 
+                    ? Number(result[header]).toFixed(2)
+                    : result[header]}
+                </TableCell>
+              ))}
             </TableRow>
           ))}
         </TableBody>
