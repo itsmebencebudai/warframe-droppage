@@ -1,0 +1,474 @@
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 19.33, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.6, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 7.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.36, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Training Debt-Bond', 'rarity': 'Common', 'chance': 46, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 27.6, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '5X Tepa Nodule', 'rarity': 'Uncommon', 'chance': 18.4, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 19.33, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.6, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 7.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.36, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Training Debt-Bond', 'rarity': 'Common', 'chance': 46, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 27.6, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '5X Tepa Nodule', 'rarity': 'Uncommon', 'chance': 18.4, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100X Plastids', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100X Plastids', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100X Plastids', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 14.5, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Training Debt-Bond', 'rarity': 'Uncommon', 'chance': 19.33, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.6, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Tepa Nodule', 'rarity': 'Rare', 'chance': 7.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.36, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Training Debt-Bond', 'rarity': 'Common', 'chance': 46, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 27.6, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '5X Tepa Nodule', 'rarity': 'Uncommon', 'chance': 18.4, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '15X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '15X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '15X Mytocardia Spore', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Charge', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Charge', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '15X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '15X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '15X Thermal Sludge', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Overdrive', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Overdrive', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '15X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Nano Spores', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '15X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Nano Spores', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '15X Gorgaricus Spore', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Nano Spores', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Assault', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Shelter Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Assault', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Deconstruct', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Deconstruct', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300X Plastids', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300X Plastids', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300X Plastids', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Recharge', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Recharge', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300X Rubedo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300X Rubedo', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300X Rubedo', 'rarity': 'Uncommon', 'chance': 13.24, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.59, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.06, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Enhance', 'rarity': 'Uncommon', 'chance': 11.76, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Medical Debt-Bond', 'rarity': 'Common', 'chance': 37.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Garuda Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 22.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Enhance', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Vazarin Lens', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Fieldron', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Fieldron', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Fieldron', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Fiber', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Fiber', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Detonite Injector', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Detonite Injector', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Detonite Injector', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Empowered', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Empowered', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Kuva', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Mutagen Mass', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Kuva', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Mutagen Mass', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '200X Kuva', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Mutagen Mass', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Gravity', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Advances Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Gravity', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Reflex', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Reflex', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Pulse', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Pulse', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Collateral', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Collateral', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Reflex', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Synth Reflex', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Pulse', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Mecha Pulse', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Neurodes', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Orokin Cell', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Collateral', 'rarity': 'Uncommon', 'chance': 16.67, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Familial Debt-Bond', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Tek Collateral', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Nira's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Verdilac Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': "Nira's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': 'Verdilac Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'A', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Amar's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Nepheri Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': "Amar's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': 'Nepheri Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'B', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Boreal's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Korumm Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': "Boreal's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': 'Korumm Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Orb Vallis Bounty', 'rotation': 'C', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': '5X Gyromag Systems', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': 'Lith P9 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': 'Quick Reload', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': '5X Atmo Systems', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': '3X Vega Toroid', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': 'Lith G13 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': '3X Repeller Systems', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': 'Deadly Efficiency', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 1', 'rotation': 'C', 'itemName': 'Strain Eruption', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': '5X Gyromag Systems', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': 'Lith X1 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': 'Resolute Focus', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': '5X Atmo Systems', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': '3X Calda Toroid', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': 'Meso F5 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': '3X Repeller Systems', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': 'Archgun Ace', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 PROFIT-TAKER - PHASE 2', 'rotation': 'C', 'itemName': 'Strain Fever', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'First Completion', 'rotation': 'C', 'itemName': 'Gravimag', 'rarity': 'Common', 'chance': 100, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': '5X Gyromag Systems', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': 'Meso E6 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': 'Marked Target', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': '5X Atmo Systems', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': '3X Sola Toroid', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': 'Neo W2 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': '3X Repeller Systems', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': 'Sabot Rounds', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Subsequent Completions', 'rotation': 'C', 'itemName': 'Strain Infection', 'rarity': 'Rare', 'chance': 1.25, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': '5X Gyromag Systems', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': 'Neo G8 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 17.14, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': 'Ammo Chain', 'rarity': 'Uncommon', 'chance': 17.14, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': '5X Atmo Systems', 'rarity': 'Uncommon', 'chance': 11.43, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': 'Axi G14 Relic (Radiant)', 'rarity': 'Uncommon', 'chance': 14.29, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': '3X Repeller Systems', 'rarity': 'Rare', 'chance': 8.57, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': 'Critical Focus', 'rarity': 'Rare', 'chance': 1.43, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}
+{'bountyLevel': 'Level 50 - 60 PROFIT-TAKER - PHASE 4', 'rotation': 'C', 'itemName': 'Strain Consume', 'rarity': 'Rare', 'chance': 1.43, 'stage': 'Final Stage', 'table': 'solarisBountyRewards'}

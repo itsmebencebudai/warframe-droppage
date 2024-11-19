@@ -1,0 +1,893 @@
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '150 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '15X Ganglion', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '15X Ganglion', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '15X Ganglion', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '150 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '15X Pustulite', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '15X Pustulite', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '15X Pustulite', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '150 Endo', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '15X Lucent Teroglobe', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '15X Lucent Teroglobe', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '3X 1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '150 Endo', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '15X Lucent Teroglobe', 'rarity': 'Uncommon', 'chance': 25.29, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4.42, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '2X 3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 18.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 5 - 15 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 31.58, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Catalyzer Link', 'rarity': 'Uncommon', 'chance': 13.16, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Catalyzer Link', 'rarity': 'Rare', 'chance': 7.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.82, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Weeping Wounds', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Embedded Catalyzer', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 13.64, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Catalyzer Link', 'rarity': 'Rare', 'chance': 5.68, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 11.36, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.82, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Weeping Wounds', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Embedded Catalyzer', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Nano-Applicator', 'rarity': 'Uncommon', 'chance': 22.73, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Weeping Wounds', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Embedded Catalyzer', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Nano-Applicator', 'rarity': 'Common', 'chance': 40, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 31.58, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Shrapnel Shot', 'rarity': 'Uncommon', 'chance': 13.16, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Shrapnel Shot', 'rarity': 'Rare', 'chance': 7.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.82, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Sharpened Bullets', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Bladed Rounds', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 13.64, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Shrapnel Shot', 'rarity': 'Rare', 'chance': 5.68, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 11.36, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.82, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Sharpened Bullets', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Bladed Rounds', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Maiming Strike', 'rarity': 'Uncommon', 'chance': 22.73, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Sharpened Bullets', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Bladed Rounds', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Maiming Strike', 'rarity': 'Common', 'chance': 40, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 31.58, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Body Count', 'rarity': 'Uncommon', 'chance': 13.16, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 18.42, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 17.65, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Body Count', 'rarity': 'Rare', 'chance': 7.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Scintillant', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.82, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Spring-Loaded Chamber', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Repeater Clip', 'rarity': 'Uncommon', 'chance': 10.29, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 13.64, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Body Count', 'rarity': 'Rare', 'chance': 5.68, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Scintillant', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 11.36, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.82, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Spring-Loaded Chamber', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Repeater Clip', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Pressurized Magazine', 'rarity': 'Uncommon', 'chance': 22.73, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Xaku Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 12, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Spring-Loaded Chamber', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Repeater Clip', 'rarity': 'Uncommon', 'chance': 14, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 15 - 25 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Pressurized Magazine', 'rarity': 'Common', 'chance': 40, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Common', 'chance': 55.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 27.78, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 26.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 13.33, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 26.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 13.33, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.54, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 8.77, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.54, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '500 Endo', 'rarity': 'Rare', 'chance': 8.77, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.54, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Rare', 'chance': 8.77, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 1.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25.64, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 12.82, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.85, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25.64, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 12.82, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.85, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 2.56, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Common', 'chance': 53.33, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 26.67, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 6.67, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 6.67, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 6.67, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 12.9, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 3.23, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 3.23, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 3.23, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 12.9, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.16, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.02, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 2.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 2.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 2.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.02, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '500 Endo', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.02, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 1.7, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Common', 'chance': 55.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 27.78, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 26.32, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Uncommon', 'chance': 13.16, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 26.32, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 13.16, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.26, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.24, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '250 Endo', 'rarity': 'Rare', 'chance': 8.62, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Mandible', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Barbs', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Thorax', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.24, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '500 Endo', 'rarity': 'Rare', 'chance': 8.62, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.45, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 17.24, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '750 Endo', 'rarity': 'Rare', 'chance': 8.62, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 3.45, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 1.72, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '500 Endo', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Carapace', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Carnis Stinger', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Jugulus Spines', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 25 - 30 Cambion Drift Bounty', 'rotation': 'C', 'itemName': 'Saxum Spittle', 'rarity': 'Rare', 'chance': 2.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Common', 'chance': 45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Hydraulic Crosshairs', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '5X Fass Residue', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 24.66, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Hydraulic Crosshairs', 'rarity': 'Rare', 'chance': 6.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '5X Fass Residue', 'rarity': 'Rare', 'chance': 4.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 17.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Rare', 'chance': 8.22, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Laser Sight', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Blood Rush', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 19.35, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Hydraulic Crosshairs', 'rarity': 'Rare', 'chance': 5.38, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '5X Fass Residue', 'rarity': 'Rare', 'chance': 3.23, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 13.98, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Rare', 'chance': 6.45, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Laser Sight', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Blood Rush', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Argon Scope', 'rarity': 'Uncommon', 'chance': 21.51, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 24.53, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Uncommon', 'chance': 11.32, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Laser Sight', 'rarity': 'Uncommon', 'chance': 13.21, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Blood Rush', 'rarity': 'Uncommon', 'chance': 13.21, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Argon Scope', 'rarity': 'Common', 'chance': 37.74, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Common', 'chance': 45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Focused Defense', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '5X Vome Residue', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 24.66, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Focused Defense', 'rarity': 'Rare', 'chance': 6.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '5X Vome Residue', 'rarity': 'Rare', 'chance': 4.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 17.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Rare', 'chance': 8.22, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Targeting Subsystem', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Guided Ordnance', 'rarity': 'Rare', 'chance': 9.59, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Uncommon', 'chance': 19.35, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Focused Defense', 'rarity': 'Rare', 'chance': 5.38, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': '5X Vome Residue', 'rarity': 'Rare', 'chance': 3.23, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 13.98, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Rare', 'chance': 6.45, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Targeting Subsystem', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Guided Ordnance', 'rarity': 'Rare', 'chance': 7.53, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Narrow Barrel', 'rarity': 'Uncommon', 'chance': 21.51, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 24.53, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Xaku Systems Blueprint', 'rarity': 'Uncommon', 'chance': 11.32, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Targeting Subsystem', 'rarity': 'Uncommon', 'chance': 13.21, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Guided Ordnance', 'rarity': 'Uncommon', 'chance': 13.21, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Cambion Drift Bounty', 'rotation': 'B', 'itemName': 'Narrow Barrel', 'rarity': 'Common', 'chance': 37.74, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Common', 'chance': 45.45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 45.45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 5.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 4.44, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Rare', 'chance': 6.67, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Quassus Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 43.48, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 13.04, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 60 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Quassus Blueprint', 'rarity': 'Common', 'chance': 43.48, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Common', 'chance': 45.45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 45.45, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 5.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 28.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.57, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Ayatan Amber Star', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': '750X Kuva', 'rarity': 'Rare', 'chance': 4.44, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Rare', 'chance': 6.67, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Quassus Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 43.48, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Xaku Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 13.04, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 100 - 100 Cambion Drift Bounty', 'rotation': 'A', 'itemName': 'Quassus Blueprint', 'rarity': 'Common', 'chance': 43.48, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Steel Fiber', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Efficiency', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'B', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Reach', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Slipstream', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Continuity', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'B', 'itemName': 'Neo A13 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Drift', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Isolation Vault', 'rotation': 'C', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Stretch', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Barrel', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Hydraulics', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Receiver', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'B', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Friction', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Stock', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Isolation Vault', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Steel Fiber', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Steel Fiber', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Steel Fiber', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Efficiency', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Efficiency', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Efficiency', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Reach', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Redirection', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Reach', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Reach', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Thrusters', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Scintillant', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '2X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 30 - 40 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Slipstream', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.17, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 1.17, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Slipstream', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Slipstream', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Continuity', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Continuity', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo A13 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Continuity', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Drift', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Blitz', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Drift', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 2, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Drift', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Guard', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Seismic Wave', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Arum Spinosa Rivet', 'rarity': 'Rare', 'chance': 4, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '3X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 40 - 50 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Axi O6 Relic', 'rarity': 'Rare', 'chance': 1, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Stretch', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Barrel', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 1.17, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.17, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Boils', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Stretch', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Barrel', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.94, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Residual Shock', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Stretch', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Sporothrix Barrel', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Damaged Necramech Weapon Barrel', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Hydraulics', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Receiver', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Malodor', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Hydraulics', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Receiver', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Residual Viremia', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Hydraulics', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Sporothrix Receiver', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Damaged Necramech Weapon Receiver', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'B', 'itemName': 'Axi S16 Relic', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 1', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 31.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 15.63, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 7.81, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 3.91, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 18.75, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Friction', 'rarity': 'Rare', 'chance': 9.38, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Stock', 'rarity': 'Rare', 'chance': 4.69, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Demulcent', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Fury', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Blueprint', 'rarity': 'Rare', 'chance': 6.25, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Orientation Matrix', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 3.13, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Friction', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Stock', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.88, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 10, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 4, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 3, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.5, 'stage': 'Stage 4 of 5', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Infection', 'rarity': 'Uncommon', 'chance': 30, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Friction', 'rarity': 'Uncommon', 'chance': 15, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Sporothrix Stock', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Ballistics Matrix', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 3.75, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Theorem Contagion', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Necramech Streamline', 'rarity': 'Rare', 'chance': 8, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Damaged Necramech Weapon Stock', 'rarity': 'Rare', 'chance': 6, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': '4X Orokin Animus Matrix', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}
+{'bountyLevel': 'Level 50 - 60 Arcana Isolation Vault', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 3, 'stage': 'Final Stage', 'tablename': 'deimosRewards'}

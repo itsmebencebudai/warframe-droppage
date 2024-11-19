@@ -1,0 +1,1503 @@
+{'source': 'The Sergeant', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'The Sergeant', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vem Tabook', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Leekter', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Shik Tal', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Moa', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Moa', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Kucumatz', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Kucumatz', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Kucumatz', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Machinist', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Machinist', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Machinist', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Heqet', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Heqet', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Heqet', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Osprey', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Osprey', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Osprey', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Moa', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Moa', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Satyr', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Satyr', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Satyr', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Osprey', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Osprey', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Osprey', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Alkonost', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Alkonost', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Alkonost', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Machinist', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Machinist', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Machinist', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Satyr', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Satyr', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolyst Satyr', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Heqet', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Heqet', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Heqet', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Sapping Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Tech Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Elite Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Nullifier Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Detron Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Sniper Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Prod Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Nullifier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Bioengineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Oxium Osprey', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Fusion Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 5.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 1.7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.27, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 5.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 1.7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.27, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 5.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 1.7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.27, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 5.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 1.7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.27, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 5.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 1.7, 'tablename': 'resourceByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.27, 'tablename': 'resourceByAvatar'}
+{'source': 'Vapos Aquila', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Ranger Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Optio', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Zerca', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Vambac', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Numon', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tarask Bursa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Stropha Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Actinic', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Vertec', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Culveri Moa', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Culveri Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Culveri Moa', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Polaris Moa', 'itemName': 'Hexenon', 'rarity': 'Common', 'chance': 7.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Polaris Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 2.43, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Polaris Moa', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.38, 'tablename': 'resourceByAvatar'}
+{'source': 'Aurax Baculus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Engineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Zerca', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Vambac', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Numon', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Ranger Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Stropha Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Engineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Secura Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Zerca', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Vambac', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Numon', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Ranger Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Stropha Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Engineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Zerca', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Vambac', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Numon', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Ranger Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Stropha Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Engineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Gox Scavenger', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gox Scavenger', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gox Scavenger', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Gox Scavenger', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Dax Herald', 'itemName': 'Lamentus', 'rarity': 'Common', 'chance': 65, 'tablename': 'resourceByAvatar'}
+{'source': 'Dax Malleus', 'itemName': 'Lamentus', 'rarity': 'Common', 'chance': 65, 'tablename': 'resourceByAvatar'}
+{'source': 'Dax Gladius', 'itemName': 'Lamentus', 'rarity': 'Common', 'chance': 65, 'tablename': 'resourceByAvatar'}
+{'source': 'Dax Arcus', 'itemName': 'Lamentus', 'rarity': 'Common', 'chance': 65, 'tablename': 'resourceByAvatar'}
+{'source': 'Dax Equitem', 'itemName': 'Lamentus', 'rarity': 'Common', 'chance': 65, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Jackal', 'itemName': 'Rune Marrow', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Tamm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tamm', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Condroc', 'itemName': 'Condroc Wing', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Emperor Condroc', 'itemName': 'Condroc Wing', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Rogue Condroc', 'itemName': 'Condroc Wing', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Plains Kuaka', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghost Kuaka', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Ashen Kuaka', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Thumper', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Grokdrul Drum', 'itemName': 'Grokdrul', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Iradite Formation', 'itemName': 'Iradite', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Coastal Mergoo', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Splendid Mergoo', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Woodland Mergoo', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Leaping Thrasher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Proselytizer', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Proselytizer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Herald', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Herald', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Baptizer', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealot Baptizer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Sapper Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Rogue Condroc', 'itemName': 'Condroc Wing', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Brachiolyst Disperser', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 9.74, 'tablename': 'resourceByAvatar'}
+{'source': 'Brachiolyst Disperser', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.26, 'tablename': 'resourceByAvatar'}
+{'source': 'Machinist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Carrion Charger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arbitration Shield Drone', 'itemName': 'Vitus Essence', 'rarity': 'Common', 'chance': 6, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Drahk Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Drahk', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Drahk', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Derivator Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Devourer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Devourer', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Expired', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Expired', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Boiler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Boiler', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Machinist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Machinist', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Machinist', 'itemName': 'Somatic Fibers', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bailiff', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bailiff', 'itemName': 'Kuva', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Hyena', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Hyena', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Hyena', 'itemName': 'Somatic Fibers', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Thrasher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Thrasher', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Juggernaut', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Juggernaut', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Juggernaut', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Juggernaut', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Anti Moa', 'itemName': 'Somatic Fibers', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Heavy Gunner', 'itemName': 'Kuva', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Nox', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Nox', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Nox', 'itemName': 'Kuva', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Charger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Charger', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bursa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bursa', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Bursa', 'itemName': 'Somatic Fibers', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Demolisher Kuva Guardian', 'itemName': 'Kuva', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Napalm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Reaver', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Shield Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Roller', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Flameblade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Shield Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Shield Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Ballista', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Mortar Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Predator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Dargyn Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Plains Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Aerial Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tusk Command Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Recon Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Shield Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Erra', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Erra', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Orphid Husks', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ashen Kuaka', 'itemName': 'Kuaka Spinal Claw', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Hyekka', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Hyekka', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Trokarian', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Undying Flyer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Reaver', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Larvling', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Larvling', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Ratel', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Minima Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Flameblade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Hyekka Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Powerclaw', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nightwatch Brunt Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Specter Particles', 'itemName': 'Spectral Debris', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Aerolyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Aerolyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Brachiolyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 9.74, 'tablename': 'resourceByAvatar'}
+{'source': 'Brachiolyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.26, 'tablename': 'resourceByAvatar'}
+{'source': 'Summulyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Summulyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyro Battalyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyro Conculyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyro Conculyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyro Conculyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Ortholyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Ortholyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Symbilyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Symbilyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Fog Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Sap Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Nul Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Slo Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Malleus Machinist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Dera Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Geminex Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Glaxion Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Jactus Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Oxium Osprey', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Juno Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Test Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Jackal', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vomvalyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Eidolon Vomvalyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealoid Prelate', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4.87, 'tablename': 'resourceByAvatar'}
+{'source': 'Zealoid Prelate', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 0.13, 'tablename': 'resourceByAvatar'}
+{'source': 'Saturn Six Fugitive', 'itemName': 'Neurodes', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Saturn Six Fugitive', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 2.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Wolf Of Saturn Six', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4.87, 'tablename': 'resourceByAvatar'}
+{'source': 'Wolf Of Saturn Six', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 0.13, 'tablename': 'resourceByAvatar'}
+{'source': 'Wolf Of Saturn Six', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4.87, 'tablename': 'resourceByAvatar'}
+{'source': 'Wolf Of Saturn Six', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 0.13, 'tablename': 'resourceByAvatar'}
+{'source': 'Guardsman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Crimson Archon Shard', 'rarity': 'Uncommon', 'chance': 17.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Azure Archon Shard', 'rarity': 'Uncommon', 'chance': 17.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Amber Archon Shard', 'rarity': 'Uncommon', 'chance': 17.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Melee Arcane Adapter', 'rarity': 'Uncommon', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Melee Crescendo', 'rarity': 'Uncommon', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Melee Duplicate', 'rarity': 'Uncommon', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Tauforged Crimson Archon Shard', 'rarity': 'Rare', 'chance': 4.17, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Tauforged Azure Archon Shard', 'rarity': 'Rare', 'chance': 4.17, 'tablename': 'resourceByAvatar'}
+{'source': 'Entrati Netracell Coffer (Level 220 - 240)', 'itemName': 'Tauforged Amber Archon Shard', 'rarity': 'Rare', 'chance': 4.17, 'tablename': 'resourceByAvatar'}
+{'source': 'Zenith Granum Crown Cache', 'itemName': 'Zenith Granum Crown', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Granum Crown Cache', 'itemName': 'Granum Crown', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Exemplar Granum Crown Cache', 'itemName': 'Exemplar Granum Crown', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Infested Oni', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arcane Boiler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nauseous Void Shade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Void Shade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Alad V', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Alad V', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Misery', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Attack Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Attack Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ambulas', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Ambulas', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Remech Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Angst', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Captain Vor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Captain Vor', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Osprey Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nox', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Torment', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Drover Bursa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Datalyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nemes', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Corvette', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Quanta Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Penta Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frigate', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Corpus Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Corpus Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Corpus Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Corpus Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Corpus Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 154.88, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 45.12, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Corpus Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Lynx', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Gox', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Cannon Battery', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Locust Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Ancient', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Councilor Vay Hek', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Councilor Vay Hek', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Abandoned Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Sapping Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Isolator Bursa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Violence', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Nervo', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kavat', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Kavat', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Kubrow', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Kubrow', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Drahk Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Napalm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Hyekka Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Scorch', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Hellion Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Drahk', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Drahk', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Shield Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Roller', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Flameblade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Powerclaw', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Ballista', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Scorpion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Draga', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Fusion Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Devourer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Auger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Auger Alpha', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Expired', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Rictus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ghoul Rictus Alpha', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Lephantis', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Lephantis', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Infested Corpus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Ancient Infested', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Infested Grineer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Artificer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Artificer', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Carabus', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Drahk Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Napalm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyekka Master', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyekka', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyekka', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Ogma', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 12.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Bailiff Defector', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Arid Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Frontier Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Scorch', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hellion Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hellion Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sprag', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': "Ven'Kra Tel", 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Drahk', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Drahk', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shield Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Lancer Dreg', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Commander', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Common Grineer Storage Container', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 151.76, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 44.22, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 4.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 24.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Uncommon Grineer Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.65, 'tablename': 'resourceByAvatar'}
+{'source': 'Manic Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Zeplen', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shield-Hellion Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hellion Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Regulator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Regulator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Roller', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Roller Sentry', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Guardian', 'itemName': 'Orvius Blade', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Flameblade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Powerfist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shield Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Arid Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Frontier Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Dargyn', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ballista', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Dreg', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Cannon Battery', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Cannon Battery', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Cannon Battery', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 17.69, 'tablename': 'resourceByAvatar'}
+{'source': 'Cannon Battery', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.61, 'tablename': 'resourceByAvatar'}
+{'source': 'Grineer Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Malice', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Hunhow', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Hunhow', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Th', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Th', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Ng', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Ng', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Pb', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Pb', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Ln2', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Ln2', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Alad V', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Alad V', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Brood Mother', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ancient Disruptor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Ancient Healer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Boiler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Venin Mutalist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nauseous Crawler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Lobber Crawler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Leaper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Electric Crawler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Crawler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Charger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Infested Mesa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4, 'tablename': 'resourceByAvatar'}
+{'source': 'Tar Mutalist Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Swarm Mutalist Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Toxic Crawler', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Attack Mutalist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Lightning Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Toxic Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Volatile Runner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Toxic Ancient', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Darek Draga', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'J3 Jordas Golem', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'J3 Jordas Golem', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut Behemoth', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut Behemoth', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut Behemoth', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut Behemoth', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut Behemoth', 'itemName': 'Cortichrome', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Juggernaut', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': "Jack O'Naut", 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': "Jack O'Naut", 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': "Jack O'Naut", 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': "Jack O'Naut", 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Jordas Golem', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Jordas Golem', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Kela De Thaym', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Kela De Thaym', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Armored Roller', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Leech Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Lt Lech Kril', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Lt Lech Kril', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Scorpion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Grineer Manic', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Grineer Manic', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Dusty Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Dusty Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Dusty Storage Crate', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Dusty Storage Crate', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Dusty Storage Crate', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Prod Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Mine Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nul Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nul Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Nul Scrambus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sap Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sap Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Sap Scrambus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Slo Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Slo Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Slo Scrambus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Fog Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Fog Comba', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Fog Scrambus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 77.44, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 32.59, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 19.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 45.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container (Level 76 - 100)', 'itemName': 'Isos', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Survival Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Survival Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Survival Storage Container', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Nullifier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Phorid', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Phorid', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Denial Bursa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Courier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Turret', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Pack', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Hyena Pack', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Jackal', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Jackal', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Jackal', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor', 'itemName': 'Neural Sensors', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor', 'itemName': 'Neural Sensors', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Mt', 'itemName': 'Neural Sensors', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Mt', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Rv', 'itemName': 'Neural Sensors', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Rv', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Ns', 'itemName': 'Neural Sensors', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Raptor Ns', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Corpus Storage Container', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 227.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Corpus Storage Container', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 66.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Corpus Storage Container', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 6.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Corpus Storage Container', 'itemName': 'Fieldron', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Water Pump Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Factory Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Industry Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Water Pump Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Factory Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Industry Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Water Pump Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Factory Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Forgotten Grineer Storage Container (Level 0 - 100)', 'itemName': 'Grineer Forest Industry Scene', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Grineer Storage Container', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 227.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Grineer Storage Container', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 66.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Grineer Storage Container', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 6.03, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Grineer Storage Container', 'itemName': 'Detonite Injector', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 20.17, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 0 - 50)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 3.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 45.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 51 - 75)', 'itemName': 'Komms', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 37.28, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 17.78, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container (Level 76 - 100)', 'itemName': 'Nullstones', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container', 'itemName': 'Forma', 'rarity': 'Common', 'chance': 12.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 12.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Rare Orokin Storage Container', 'itemName': 'Forma', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Mania', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Jester', 'itemName': 'Orvius Disc', 'rarity': 'Common', 'chance': 5, 'tablename': 'resourceByAvatar'}
+{'source': 'General Sargas Ruk', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'General Sargas Ruk', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Scavenger Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Scorpion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Ballista', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Manic', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Manic Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Drekar Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sensor Regulator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Orokin Spectator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Conculyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Conculyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Battalyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Battalyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Decaying Conculyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Decaying Conculyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Decaying Battalyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Decaying Battalyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shock Draga', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Stalker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Stalker', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Shadow Stalker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Shadow Stalker', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Latcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Oxium Osprey', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Tenno Specter', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4, 'tablename': 'resourceByAvatar'}
+{'source': 'Mutalist Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyl Regor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyl Regor', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyl Regor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Tyl Regor', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Corpus Storage Container', 'itemName': 'Fieldron', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 303.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 88.44, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 8.04, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 303.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 88.44, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 8.04, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Grineer Storage Container', 'itemName': 'Detonite Injector', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 20.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 0 - 50)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 5.8, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 59.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 20.16, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 20.16, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 51 - 75)', 'itemName': 'Komms', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 51.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 17.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 17.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 14.24, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container (Level 76 - 100)', 'itemName': 'Nullstones', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Orokin Storage Container', 'itemName': 'Forma', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Councilor Vay Hek', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Councilor Vay Hek', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vay Hek Terra Frame', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Vay Hek Terra Frame', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Rathuum Broadcaster', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Vor', 'itemName': 'Rune Marrow', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Vor', 'itemName': 'Argon Crystal', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Vor', 'itemName': 'Orokin Cell', 'rarity': 'Common', 'chance': 50, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Warden', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corrupted Warden', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Grineer Warden', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Sikula', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Therid', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Leaping Thrasher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Carnis', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Carnis', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Carnis Rex', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Jugulus', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Jugulus Rex', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Mutalist Osprey Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Saxum Rex', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Latrox Une', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Brood Mother', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Polyp-Hog Juggernaut', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Polyp-Hog Juggernaut', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Polyp-Hog Juggernaut', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Polyp-Hog Juggernaut', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Lancer Survivor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Trooper Survivor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Ancient Healer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Venin Mutalist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Saxum', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Saxum', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Tendril Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Pulsating Tubercles', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Infected Palpators', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Chitinous Husk', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Juggernaut', 'itemName': 'Severed Bile Sac', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Leaper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Runner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Garv', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Swarm Mutalist Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Deimos Charger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Basal Diploid', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Basal Diploid Rex', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Feral Diploid', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Feral Diploid Rex', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Protector Stalker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Protector Stalker', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Mite', 'itemName': 'Vega Toroid', 'rarity': 'Common', 'chance': 1, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Flameblade', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Bombard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Observation Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Power Carrier', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Dera Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Disc Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Elite Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Geminex Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Glaxion Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Jailer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Leech Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Mine Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Mine Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Nullifier Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Prod Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Detron Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Sapping Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Scavenger Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Sniper Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Oxium Osprey', 'itemName': 'Oxium', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Corpus Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Tech Ranger', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Crewman Warden', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Sensolyst Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Expired', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Expired', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Bailiff', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Bailiff', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 11.21, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Demolisher Gunner', 'itemName': 'Region Resource', 'rarity': 'Uncommon', 'chance': 3.79, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Ballista', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Scorch', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Gunner Warden', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Heavy Gunner', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Napalm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Hellion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Scorpion', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Machinist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Seeker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Powerfist', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Regulator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Shield Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Trooper', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Tech', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 33.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 25.02, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Charc Electroplax', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Goopolla Spleen', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Murkray Liver', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Sharrac Teeth', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Karkina Antenna', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Azurite', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Devar', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Pyrol', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Coprite Alloy', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Mawfish Bones', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Khut-Khut Venom Sac', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Yogwun Stomach', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Tralok Eyes', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Mortus Horn', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Maprico', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Grokdrul', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Iradite', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Norg Brain', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Cuthol Tendrils', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Nistlepod', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Crimzian', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Auron', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Veridos', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Thumper', 'itemName': 'Ferros', 'rarity': 'Rare', 'chance': 16.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Coildrive', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Typholyst', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 48.71, 'tablename': 'resourceByAvatar'}
+{'source': 'Typholyst', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 1.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Breacher Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Striker Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Shield Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Pyr Captain', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Glacik Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Lektro Commander', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Blite Captain', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Crewship', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Crewship', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Crewship', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Crewship', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Crewship', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Crewship', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Crewship', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Crewship', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Crewship', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Crewship', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Crewship', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Crewship', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Crewship', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Crewship', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Crewship', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Crewship', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Gox', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Gox', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Gox', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Gox', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Orm Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Orm Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Gox', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Gox', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Gox', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Gox', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Gox', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Gox', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Gox', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Gox', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Axio Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Axio Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Weaver', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Weaver', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Taro Weaver', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Taro Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Basilisk', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Basilisk', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Basilisk', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Basilisk', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Gox', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Gox', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Gox', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Gox', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Harpi', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Harpi', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Harpi', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Harpi', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Vorac Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Weaver', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Weaver', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Weaver', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Vorac Weaver', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Comet Shard', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Ramsled', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 37.94, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Ramsled', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 37.94, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Ramsled', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 22.11, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Ramsled', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider Carver', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider Carver', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Raider Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider Carver', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider Carver', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider Carver', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider Carver', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Raider Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Raider Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Gokstad Officer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Gokstad Officer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Gokstad Officer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Gokstad Officer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Gokstad Officer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Gokstad Officer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Butcher', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Butcher', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Elite Lancer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Supressor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Supressor', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Elite Lancer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Butcher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Butcher', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Elite Lancer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Elite Lancer', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Eviscerator', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Eviscerator', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Supressor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Supressor', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Supressor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Supressor', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Taktis', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Taktis', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Taktis', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 17.69, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Taktis', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.61, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Outrider', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Outrider', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Outrider', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Outrider', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Cutter', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Cutter', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Exo Cutter', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Cutter', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Cutter', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Cutter', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Taktis', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Taktis', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Taktis', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 17.69, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Taktis', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 1.61, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Outrider', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Outrider', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Outrider', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Outrider', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Cutter', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Cutter', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Kosma Cutter', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Cutter', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 37.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 37.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Flak', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Flak', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Flak', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Flak', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Taktis', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Taktis', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Taktis', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Taktis', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 30.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Taktis', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 8.85, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Taktis', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 8.85, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Taktis', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.61, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Outrider', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Outrider', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Outrider', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Outrider', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Cutter', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 28.45, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Cutter', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 16.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Elite Gyre Cutter', 'itemName': 'Komms', 'rarity': 'Rare', 'chance': 1.51, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Cutter', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 37.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Cutter', 'itemName': 'Ticor Plate', 'rarity': 'Common', 'chance': 37.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Kuva Lich Agor Rok', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Gokstad Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Gokstad Pilot', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Gokstad Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Gokstad Pilot', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Gokstad Pilot', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Gokstad Pilot', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Roller Sentry', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Exo Roller Sentry', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Roller Sentry', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Roller Sentry', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Roller Sentry', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 6.82, 'tablename': 'resourceByAvatar'}
+{'source': 'Kosma Roller Sentry', 'itemName': 'Tellurium', 'rarity': 'Rare', 'chance': 0.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Brachiolyst', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Brachiolyst', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Brachiolyst', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Mantalyst', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Mantalyst', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Mantalyst', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Pyrolyst', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Pyrolyst', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Pyrolyst', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Symbilyst', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Symbilyst', 'itemName': 'Cubic Diodes', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Anu Symbilyst', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 6.67, 'tablename': 'resourceByAvatar'}
+{'source': 'Ionyx', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 16.92, 'tablename': 'resourceByAvatar'}
+{'source': 'Ionyx', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Ionyx', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Ionyx', 'itemName': 'Ticor Plate', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Ionyx', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyrix', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 16.92, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyrix', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyrix', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyrix', 'itemName': 'Ticor Plate', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyrix', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 14.52, 'tablename': 'resourceByAvatar'}
+{'source': 'Mimic', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 12.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Mimic', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 12.18, 'tablename': 'resourceByAvatar'}
+{'source': 'Mimic', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 0.65, 'tablename': 'resourceByAvatar'}
+{'source': 'Polished Storage Container', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Polished Storage Container', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Polished Storage Crate', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Polished Storage Crate', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Polished Storage Crate', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 11.28, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 11.28, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 25.81, 'tablename': 'resourceByAvatar'}
+{'source': 'Nascent Membroid (Level 76 - 100)', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 25.49, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 20.17, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 0 - 50)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 3.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 45.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 51 - 75)', 'itemName': 'Komms', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 37.28, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Asterite', 'rarity': 'Uncommon', 'chance': 17.78, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Mature Membroid (Level 76 - 100)', 'itemName': 'Komms', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 24.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 20.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 0 - 50)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Rare', 'chance': 5.8, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 59.68, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 20.16, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 20.16, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 51 - 75)', 'itemName': 'Komms', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Common', 'chance': 51.19, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 17.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 17.29, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 14.24, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Aucrux Capacitors', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Apex Membroid (Level 76 - 100)', 'itemName': 'Nullstones', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 0 - 50)', 'itemName': 'Isos', 'rarity': 'Uncommon', 'chance': 32.59, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 0 - 50)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 0 - 50)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 0 - 50)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 22.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 51 - 75)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 51 - 75)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 51 - 75)', 'itemName': 'Titanium', 'rarity': 'Uncommon', 'chance': 26.84, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 51 - 75)', 'itemName': 'Gallos Rods', 'rarity': 'Uncommon', 'chance': 19.47, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 51 - 75)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 76 - 100)', 'itemName': 'Titanium', 'rarity': 'Common', 'chance': 45.35, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 76 - 100)', 'itemName': 'Carbides', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 76 - 100)', 'itemName': 'Cubic Diodes', 'rarity': 'Uncommon', 'chance': 27.33, 'tablename': 'resourceByAvatar'}
+{'source': 'Juvenile Membroid (Level 76 - 100)', 'itemName': 'Asterite', 'rarity': 'Legendary', 'chance': None, 'tablename': 'resourceByAvatar'}
+{'source': 'Observation Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Thermal Sludge Cannister', 'itemName': 'Thermal Sludge', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Coolant Raknoid', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Scyto Raknoid', 'itemName': 'Calda Toroid', 'rarity': 'Common', 'chance': 20, 'tablename': 'resourceByAvatar'}
+{'source': 'Special Duty Coildrive', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Thermic Raknoid', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Mite Raknoid', 'itemName': 'Vega Toroid', 'rarity': 'Common', 'chance': 1, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Ambulas', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Manker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Manker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Armaments Director', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vivisect Director', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Sentient Research Director', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Vallis Surveillance Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Detron Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Attack Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Attack Drone', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Research Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Provisor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Provisor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Provisor', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Overtaker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Overtaker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Overtaker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Jailer', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Cestra Manker', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Raptor Sx', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Raptor Sx', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Trencher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Icemire Hyena', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Icemire Hyena', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Rabbleback Hyena', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Rabbleback Hyena', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Hyena', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Gyre Hyena', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Cinderthresh Hyena', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 97.42, 'tablename': 'resourceByAvatar'}
+{'source': 'Cinderthresh Hyena', 'itemName': 'Orokin Cell', 'rarity': 'Rare', 'chance': 2.58, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Embattor Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Elite Embattor Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Anti Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Nullifier Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Railgun Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Shield Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Shockwave Moa', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Trencher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Trencher', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Plasmor Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Plasmor Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Sniper Crewman', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Oxium Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Turret Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Terra Turret Osprey', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Trencher Target', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Cestra Target', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Supra Target', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Corpus Sniper Target', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 15, 'tablename': 'resourceByAvatar'}
+{'source': 'Coildrive', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Kyta Raknoid', 'itemName': 'Sola Toroid', 'rarity': 'Common', 'chance': 20, 'tablename': 'resourceByAvatar'}
+{'source': 'Chroma', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 4, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Scyto Raknoid', 'itemName': 'Calda Toroid', 'rarity': 'Common', 'chance': 20, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Cache', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 19.36, 'tablename': 'resourceByAvatar'}
+{'source': 'Narmer Cache', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.64, 'tablename': 'resourceByAvatar'}
+{'source': 'Rogg-417', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 7, 'tablename': 'resourceByAvatar'}
+{'source': 'Primm', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Verd-Ie', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 10, 'tablename': 'resourceByAvatar'}
+{'source': 'Omnipak', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Omnipak', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Omnipak', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Carrypod', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Carrypod', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Carrypod', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Molted Cask', 'itemName': 'Forma', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Ancient Molted Cask', 'itemName': 'Forma', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Carrypod', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 18.97, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Carrypod', 'itemName': 'Nav Coordinate', 'rarity': 'Uncommon', 'chance': 5.53, 'tablename': 'resourceByAvatar'}
+{'source': 'Reinforced Carrypod', 'itemName': 'Oxium', 'rarity': 'Rare', 'chance': 0.5, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Temple of Profit Enemies', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 9, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Temple of Profit Enemies', 'itemName': 'Sola Toroid', 'rarity': 'Uncommon', 'chance': 2, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Enrichment Labs Enemies', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 9, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Enrichment Labs Enemies', 'itemName': 'Calda Toroid', 'rarity': 'Uncommon', 'chance': 2, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Spaceport Enemies', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 9, 'tablename': 'resourceByAvatar'}
+{'source': 'Orb Vallis - Spaceport Enemies', 'itemName': 'Vega Toroid', 'rarity': 'Uncommon', 'chance': 2, 'tablename': 'resourceByAvatar'}
+{'source': 'Sister Of Parvos (Ascension Hard Mode)', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}
+{'source': 'Eximus Enemy (Hard Mode)', 'itemName': 'Region Resource', 'rarity': 'Common', 'chance': 5.01, 'tablename': 'resourceByAvatar'}
+{'source': 'Eximus Enemy (Hard Mode)', 'itemName': 'Riven Sliver', 'rarity': 'Uncommon', 'chance': 1.99, 'tablename': 'resourceByAvatar'}
+{'source': 'Sentient Eidolons (Hard Mode)', 'itemName': 'Steel Essence', 'rarity': 'Common', 'chance': 100, 'tablename': 'resourceByAvatar'}

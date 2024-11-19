@@ -1,0 +1,69 @@
+{'source': 'Vem Tabook', 'itemName': 'Grustrag Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Corrupted Jackal', 'itemName': 'Jackal Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Maprico', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Sentirum', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Nyth', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Doma', 'itemName': 'Seram Beetle Shell', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Maprico', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Sentirum', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Nyth', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Tusk Thumper Bull', 'itemName': 'Seram Beetle Shell', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Leaping Thrasher', 'itemName': 'Leaping Thrasher Sigil', 'rarity': 'Common', 'chance': 5, 'tablename': 'sigilByAvatar'}
+{'source': 'Eidolon Gantulyst', 'itemName': 'Gantulyst Sigil', 'rarity': 'Common', 'chance': 10, 'tablename': 'sigilByAvatar'}
+{'source': 'Eidolon Teralyst', 'itemName': 'Teralyst Sigil', 'rarity': 'Common', 'chance': 10, 'tablename': 'sigilByAvatar'}
+{'source': 'Eidolon Hydrolyst', 'itemName': 'Hydrolyst Sigil', 'rarity': 'Common', 'chance': 10, 'tablename': 'sigilByAvatar'}
+{'source': 'Wolf Of Saturn Six', 'itemName': 'Saturn Six Mask', 'rarity': 'Common', 'chance': 2, 'tablename': 'sigilByAvatar'}
+{'source': 'Alad V', 'itemName': 'Alad V Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Ambulas', 'itemName': 'Ambulas Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Captain Vor', 'itemName': 'Vor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Lynx', 'itemName': 'Lynx Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Lephantis', 'itemName': 'Lephantis Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Infested Corpus', 'itemName': 'Lephantis Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Ancient Infested', 'itemName': 'Lephantis Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Infested Grineer', 'itemName': 'Lephantis Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Commander', 'itemName': 'Sargas Ruk Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hunhow', 'itemName': 'Stalker Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hyena Th', 'itemName': 'Hyena Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hyena Ng', 'itemName': 'Hyena Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hyena Pb', 'itemName': 'Hyena Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hyena Ln2', 'itemName': 'Hyena Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Mutalist Alad V', 'itemName': 'Alad V Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Kela De Thaym', 'itemName': 'Kela De Thaym Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Lt Lech Kril', 'itemName': 'Lech Kril Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Phorid', 'itemName': 'Phorid Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Hyena Pack', 'itemName': 'Hyena Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Jackal', 'itemName': 'Jackal Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Raptor', 'itemName': 'Raptor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Raptor', 'itemName': 'Raptor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Raptor Mt', 'itemName': 'Raptor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Raptor Rv', 'itemName': 'Raptor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Raptor Ns', 'itemName': 'Raptor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'General Sargas Ruk', 'itemName': 'Sargas Ruk Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Stalker', 'itemName': 'Stalker Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Shadow Stalker', 'itemName': 'Stalker Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Tyl Regor', 'itemName': 'Tyl Regor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Councilor Vay Hek', 'itemName': 'Vay Hek Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Vay Hek Terra Frame', 'itemName': 'Vay Hek Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Corrupted Vor', 'itemName': 'Vor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Corrupted Vor', 'itemName': 'Vor Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Zanuka Hunter', 'itemName': 'Zanuka Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Deimos Leaping Thrasher', 'itemName': 'Leaping Thrasher Sigil', 'rarity': 'Common', 'chance': 5, 'tablename': 'sigilByAvatar'}
+{'source': 'Deimos Saxum Rex', 'itemName': 'Leaping Thrasher Sigil', 'rarity': 'Common', 'chance': 5, 'tablename': 'sigilByAvatar'}
+{'source': 'Deimos Saxum', 'itemName': 'Leaping Thrasher Sigil', 'rarity': 'Common', 'chance': 5, 'tablename': 'sigilByAvatar'}
+{'source': 'Deimos Saxum', 'itemName': 'Leaping Thrasher Sigil', 'rarity': 'Common', 'chance': 5, 'tablename': 'sigilByAvatar'}
+{'source': 'Protector Stalker', 'itemName': 'Stalker Sigil', 'rarity': 'Common', 'chance': 100, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Maprico', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Sentirum', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Nyth', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Doma', 'itemName': 'Seram Beetle Shell', 'rarity': 'Uncommon', 'chance': 50, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Maprico', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Sentirum', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Nyth', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Narmer Thumper Bull', 'itemName': 'Seram Beetle Shell', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'sigilByAvatar'}
+{'source': 'Profit-Taker', 'itemName': 'Bloodshed Sigil', 'rarity': 'Common', 'chance': 3, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Synathid Ecosynth Analyzer', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Tromyzon Entroplasma', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Charamote Sagan Module', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Zodian', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Thyst', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Longwinder Lathe Coagulant', 'rarity': 'Uncommon', 'chance': 50.01, 'tablename': 'sigilByAvatar'}

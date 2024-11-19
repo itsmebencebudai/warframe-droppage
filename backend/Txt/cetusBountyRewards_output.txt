@@ -1,0 +1,711 @@
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Redirection', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '15X Iradite', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Redirection', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '15X Iradite', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Streamline', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Redirection', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '100X Oxium', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '15X Iradite', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Streamline', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Morphics', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Point Blank', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': 'Streamline', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Morphics', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '15X Grokdrul', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '15X Grokdrul', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '100X Cryotic', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '15X Grokdrul', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Morphics', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': 'Stretch', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Morphics', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '200X Plastids', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '15X Nistlepod', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '200X Plastids', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '15X Nistlepod', 'rarity': 'Uncommon', 'chance': 15.49, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Intensify', 'rarity': 'Rare', 'chance': 7.52, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '200X Plastids', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '1,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '50 Endo', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '15X Nistlepod', 'rarity': 'Uncommon', 'chance': 15.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Intensify', 'rarity': 'Rare', 'chance': 7.37, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Gallium', 'rarity': 'Rare', 'chance': 2.01, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Blank', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': 'Intensify', 'rarity': 'Uncommon', 'chance': 30.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 5 - 15 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Gallium', 'rarity': 'Rare', 'chance': 8.33, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Steel Fiber', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Steel Fiber', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Charged Chamber', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Burning Wasp', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.88, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Steel Fiber', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '200X Oxium', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Charged Chamber', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Burning Wasp', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.65, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Control Module', 'rarity': 'Rare', 'chance': 4.03, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Charged Chamber', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Burning Wasp', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.58, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Control Module', 'rarity': 'Uncommon', 'chance': 10.42, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Energy Inversion', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Energy Inversion', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Reaping Spiral', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.88, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Energy Inversion', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '200X Cryotic', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Reaping Spiral', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.65, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Neural Sensors', 'rarity': 'Rare', 'chance': 4.03, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Reaping Spiral', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.58, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Neural Sensors', 'rarity': 'Uncommon', 'chance': 10.42, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Strike', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Strike', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Enhanced Durability', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Grim Fury', 'rarity': 'Uncommon', 'chance': 10.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.88, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Point Strike', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Circuits', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '2,500 Credits Cache', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Uncommon', 'chance': 15.32, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Enhanced Durability', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Grim Fury', 'rarity': 'Rare', 'chance': 9.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 5.65, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Orokin Cell', 'rarity': 'Rare', 'chance': 4.03, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Systems Blueprint', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Enhanced Durability', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Grim Fury', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 14.58, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 10 - 30 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Orokin Cell', 'rarity': 'Uncommon', 'chance': 10.42, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Aegis', 'rarity': 'Uncommon', 'chance': 27.59, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 13.79, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 29.31, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 29.31, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Aegis', 'rarity': 'Uncommon', 'chance': 18.08, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 19.21, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 19.21, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Accord', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.34, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Aegis', 'rarity': 'Uncommon', 'chance': 17.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 8.84, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 18.78, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 18.78, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.84, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Accord', 'rarity': 'Rare', 'chance': 8.84, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Rare', 'chance': 8.84, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.18, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Vigilante Supplies', 'rarity': 'Rare', 'chance': 2.21, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 24.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Accord', 'rarity': 'Uncommon', 'chance': 24.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Uncommon', 'chance': 24.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'A', 'itemName': 'Vigilante Supplies', 'rarity': 'Rare', 'chance': 6.15, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Armaments', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Armaments', 'rarity': 'Uncommon', 'chance': 22.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Rare', 'chance': 9.3, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 9.3, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 22.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 9.3, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Might', 'rarity': 'Rare', 'chance': 9.3, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.47, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8.14, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Armaments', 'rarity': 'Uncommon', 'chance': 21.59, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 21.59, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Might', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Uncommon', 'chance': 10.23, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 7.95, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Augur Seeker', 'rarity': 'Rare', 'chance': 2.27, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 23.53, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Might', 'rarity': 'Uncommon', 'chance': 23.53, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20.59, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'B', 'itemName': 'Augur Seeker', 'rarity': 'Rare', 'chance': 5.88, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Pact', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Pact', 'rarity': 'Uncommon', 'chance': 21.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 9.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 9.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 21.97, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.4, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Fervor', 'rarity': 'Rare', 'chance': 9.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Rare', 'chance': 9.25, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8.67, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Pact', 'rarity': 'Uncommon', 'chance': 21.47, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': '200 Endo', 'rarity': 'Uncommon', 'chance': 21.47, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.17, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Fervor', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Rare', 'chance': 9.04, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Rare', 'chance': 8.47, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gladiator Vice', 'rarity': 'Rare', 'chance': 2.26, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gara Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 26.09, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Fervor', 'rarity': 'Uncommon', 'chance': 23.19, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Systems Blueprint', 'rarity': 'Uncommon', 'chance': 23.19, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 20 - 40 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gladiator Vice', 'rarity': 'Rare', 'chance': 5.8, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Rush', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Rush', 'rarity': 'Uncommon', 'chance': 21.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 21.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 10.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Reach', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 11.24, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Gladiator Rush', 'rarity': 'Uncommon', 'chance': 20.88, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Unairu Lens', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Madurai Lens', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 20.88, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Reach', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 10.99, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Vigilante Offense', 'rarity': 'Rare', 'chance': 2.2, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 24.32, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Augur Reach', 'rarity': 'Uncommon', 'chance': 21.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 21.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 27.03, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'A', 'itemName': 'Vigilante Offense', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Vigor', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Uncommon', 'chance': 14.81, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 35.19, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Vigor', 'rarity': 'Uncommon', 'chance': 21.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 21.35, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 10.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Resolve', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.99, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 11.24, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vigilante Vigor', 'rarity': 'Uncommon', 'chance': 20.88, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Zenurik Lens', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Vazarin Lens', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 20.88, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Resolve', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.79, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 10.99, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Augur Secrets', 'rarity': 'Rare', 'chance': 2.2, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 24.32, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Gladiator Resolve', 'rarity': 'Uncommon', 'chance': 21.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 21.62, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 27.03, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'B', 'itemName': 'Augur Secrets', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Message', 'rarity': 'Uncommon', 'chance': 29.31, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '100X Kuva', 'rarity': 'Uncommon', 'chance': 27.59, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 13.79, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 29.31, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Message', 'rarity': 'Uncommon', 'chance': 18.48, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '100X Kuva', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 8.7, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 18.48, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 8.7, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Pursuit', 'rarity': 'Rare', 'chance': 8.7, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.7, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 10.87, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Augur Message', 'rarity': 'Uncommon', 'chance': 18.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '100X Kuva', 'rarity': 'Uncommon', 'chance': 17.02, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 18.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Pursuit', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 10.64, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gladiator Finesse', 'rarity': 'Rare', 'chance': 2.13, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Vigilante Pursuit', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 27.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 30 - 50 Cetus Bounty', 'rotation': 'C', 'itemName': 'Gladiator Finesse', 'rarity': 'Rare', 'chance': 5.56, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Furax Wraith Left Gauntlet', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Carving Mantis', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Furax Wraith Left Gauntlet', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Carving Mantis', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Furax Wraith Right Gauntlet', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Swooping Falcon', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Furax Wraith Right Gauntlet', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Swooping Falcon', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Furax Wraith Blueprint', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Twirling Spire', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Furax Wraith Blueprint', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Twirling Spire', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 60 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Furax Wraith Left Gauntlet', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Carving Mantis', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Furax Wraith Left Gauntlet', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Carving Mantis', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'A', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Furax Wraith Right Gauntlet', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Swooping Falcon', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Furax Wraith Right Gauntlet', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Swooping Falcon', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'B', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Common', 'chance': 50, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 21.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 17.39, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 6.09, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 33.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '400 Endo', 'rarity': 'Uncommon', 'chance': 16.89, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 25.68, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Furax Wraith Blueprint', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Twirling Spire', 'rarity': 'Rare', 'chance': 5.41, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 4.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 6.76, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Cetus Wisp', 'rarity': 'Uncommon', 'chance': 20.41, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': '300X Kuva', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Aya', 'rarity': 'Common', 'chance': 38.78, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Furax Wraith Blueprint', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Twirling Spire', 'rarity': 'Rare', 'chance': 8.16, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Eidolon Lens Blueprint', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 100 - 100 Cetus Bounty', 'rotation': 'C', 'itemName': 'Revenant Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 10.2, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Amar's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Nira's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Verdilac Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Caliban Systems Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Boreal's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': "Nira's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': 'Verdilac Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'A', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Boreal's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Amar's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Nepheri Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Caliban Chassis Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Nira's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': "Amar's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': 'Nepheri Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'B', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Uncommon', 'chance': 20, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Common', 'chance': 33.33, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Common', 'chance': 46.67, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 8.11, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Uncommon', 'chance': 13.51, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 18.92, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Nira's Anguish", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '600 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Boreal's Contempt", 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Korumm Blueprint', 'rarity': 'Rare', 'chance': 5.45, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '3X Narmer Isoplast', 'rarity': 'Rare', 'chance': 9.09, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 12.73, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Caliban Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Amar's Hatred", 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '2X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '900 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': "Boreal's Contempt", 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': 'Korumm Blueprint', 'rarity': 'Rare', 'chance': 7.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '3X Narmer Isoplast', 'rarity': 'Uncommon', 'chance': 12.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 50 - 70 Cetus Bounty', 'rotation': 'C', 'itemName': '1200 Endo', 'rarity': 'Uncommon', 'chance': 17.5, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 36.76, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Adrenaline', 'rarity': 'Common', 'chance': 36.76, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 12.14, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Rare', 'chance': 8.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Adrenaline', 'rarity': 'Uncommon', 'chance': 12.14, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 19.42, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Munitions', 'rarity': 'Rare', 'chance': 9.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Stubba Blueprint', 'rarity': 'Rare', 'chance': 4.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 4.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Uncommon', 'chance': 18.45, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Rare', 'chance': 8.93, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Rare', 'chance': 6.43, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Adrenaline', 'rarity': 'Rare', 'chance': 8.93, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 14.29, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Munitions', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Stubba Blueprint', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Uncommon', 'chance': 13.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Track', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15.71, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 18.87, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Munitions', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Stubba Blueprint', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Uncommon', 'chance': 17.92, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Track', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20.75, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Common', 'chance': 36.76, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Uncommon', 'chance': 26.47, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Recovery', 'rarity': 'Common', 'chance': 36.76, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 12.14, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Rare', 'chance': 8.74, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Recovery', 'rarity': 'Uncommon', 'chance': 12.14, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 19.42, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Synergy', 'rarity': 'Rare', 'chance': 9.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Quartakk Blueprint', 'rarity': 'Rare', 'chance': 4.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.71, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 4.85, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Uncommon', 'chance': 18.45, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Rare', 'chance': 8.93, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '3,000 Credits Cache', 'rarity': 'Rare', 'chance': 6.43, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Recovery', 'rarity': 'Rare', 'chance': 8.93, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 14.29, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Synergy', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Quartakk Blueprint', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Uncommon', 'chance': 13.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Command', 'rarity': 'Rare', 'chance': 7.14, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 3.57, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 15.71, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Encrypted Journal Fragment', 'rarity': 'Uncommon', 'chance': 18.87, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Synergy', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Quartakk Blueprint', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': '5X Breath Of The Eidolon', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Uncommon', 'chance': 17.92, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Hunter Command', 'rarity': 'Rare', 'chance': 9.43, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Nitain Extract', 'rarity': 'Rare', 'chance': 4.72, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 40 - 50 Ghoul Bounty', 'rotation': 'A', 'itemName': 'Aya', 'rarity': 'Uncommon', 'chance': 20.75, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Augur Message', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '100X Kuva', 'rarity': 'Uncommon', 'chance': 23.86, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Naramon Lens', 'rarity': 'Uncommon', 'chance': 14.77, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 25, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi H8 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi O6 Relic', 'rarity': 'Rare', 'chance': 1.14, 'stage': 'Stage 1', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Augur Message', 'rarity': 'Uncommon', 'chance': 12.87, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '100X Kuva', 'rarity': 'Uncommon', 'chance': 12.28, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 7.6, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Uncommon', 'chance': 12.87, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso F5 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo Z11 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi H8 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 14.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Vigilante Pursuit', 'rarity': 'Uncommon', 'chance': 14.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 14.04, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso T7 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso N17 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo A13 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S17 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi A19 Relic', 'rarity': 'Legendary', 'chance': 0.58, 'stage': 'Stage 2, Stage 3 of 4, and Stage 3 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Augur Message', 'rarity': 'Rare', 'chance': 9.28, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '100X Kuva', 'rarity': 'Rare', 'chance': 8.86, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Naramon Lens', 'rarity': 'Rare', 'chance': 5.49, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': '300 Endo', 'rarity': 'Rare', 'chance': 9.28, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso F5 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo Z11 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi H8 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 10.13, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Vigilante Pursuit', 'rarity': 'Uncommon', 'chance': 10.13, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 10.13, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso T7 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso N17 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo A13 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S17 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi A19 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Gladiator Finesse', 'rarity': 'Uncommon', 'chance': 23.21, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso A7 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso T7 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso V10 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo Q1 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi H8 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.42, 'stage': 'Stage 4 of 5', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Cetus Wisp', 'rarity': 'Uncommon', 'chance': 16.11, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Vigilante Pursuit', 'rarity': 'Uncommon', 'chance': 16.11, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Revenant Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 16.11, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso T7 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso E6 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso N17 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo P7 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo L4 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo A13 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S17 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi S16 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi A19 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Gladiator Finesse', 'rarity': 'Common', 'chance': 36.91, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso A7 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso T7 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Meso V10 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo Q1 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo W2 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Neo G8 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi G14 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi H8 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}
+{'bountyLevel': 'Level 15 - 25 Plague Star', 'rotation': 'A', 'itemName': 'Axi O6 Relic', 'rarity': 'Legendary', 'chance': 0.67, 'stage': 'Final Stage', 'tablename': 'cetusBountyRewards'}

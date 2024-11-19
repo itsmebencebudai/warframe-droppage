@@ -1,0 +1,17 @@
+{'itemName': 'Ayatan Anasa Sculpture', 'rarity': 'Uncommon', 'chance': 28, 'tablename': 'sortieRewards'}
+{'itemName': '4000 Endo', 'rarity': 'Uncommon', 'chance': 12, 'tablename': 'sortieRewards'}
+{'itemName': 'Forma', 'rarity': 'Rare', 'chance': 2.5, 'tablename': 'sortieRewards'}
+{'itemName': 'Exilus Warframe Adapter', 'rarity': 'Rare', 'chance': 2.5, 'tablename': 'sortieRewards'}
+{'itemName': 'Orokin Reactor Blueprint', 'rarity': 'Rare', 'chance': 2.5, 'tablename': 'sortieRewards'}
+{'itemName': 'Orokin Catalyst Blueprint', 'rarity': 'Rare', 'chance': 2.5, 'tablename': 'sortieRewards'}
+{'itemName': 'Legendary Core', 'rarity': 'Legendary', 'chance': 0.19, 'tablename': 'sortieRewards'}
+{'itemName': '6000X Kuva', 'rarity': 'Uncommon', 'chance': 12, 'tablename': 'sortieRewards'}
+{'itemName': 'Mod Drop Chance Booster', 'rarity': 'Rare', 'chance': 3.27, 'tablename': 'sortieRewards'}
+{'itemName': 'Affinity Booster', 'rarity': 'Rare', 'chance': 3.27, 'tablename': 'sortieRewards'}
+{'itemName': 'Resource Drop Chance Booster', 'rarity': 'Rare', 'chance': 3.27, 'tablename': 'sortieRewards'}
+{'itemName': 'Rifle Riven Mod', 'rarity': 'Rare', 'chance': 7, 'tablename': 'sortieRewards'}
+{'itemName': 'Pistol Riven Mod', 'rarity': 'Rare', 'chance': 7, 'tablename': 'sortieRewards'}
+{'itemName': 'Shotgun Riven Mod', 'rarity': 'Rare', 'chance': 2.2, 'tablename': 'sortieRewards'}
+{'itemName': 'Melee Riven Mod', 'rarity': 'Rare', 'chance': 9.8, 'tablename': 'sortieRewards'}
+{'itemName': 'Zaw Riven Mod', 'rarity': 'Rare', 'chance': 1, 'tablename': 'sortieRewards'}
+{'itemName': 'Kitgun Riven Mod', 'rarity': 'Rare', 'chance': 1, 'tablename': 'sortieRewards'}

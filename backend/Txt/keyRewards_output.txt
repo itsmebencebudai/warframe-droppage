@@ -1,0 +1,648 @@
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Recover The Orokin Archive', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "4X Kullervo's Bane", 'rarity': 'Uncommon', 'chance': 30, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "5X Kullervo's Bane", 'rarity': 'Common', 'chance': 40, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "6X Kullervo's Bane", 'rarity': 'Uncommon', 'chance': 30, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "6X Kullervo's Bane", 'rarity': 'Uncommon', 'chance': 30, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "7X Kullervo's Bane", 'rarity': 'Common', 'chance': 40, 'tablename': 'keyRewards'}
+{'keyName': "Kullervo's Hold", 'rotation': 'C', 'itemName': "8X Kullervo's Bane", 'rarity': 'Uncommon', 'chance': 30, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'A', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'B', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'C', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'A', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'B', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'C', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'A', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'B', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'C', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'A', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'B', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'C', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'A', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'B', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Help Clem Retrieve The Relic', 'rotation': 'C', 'itemName': 'Clem Clone Blueprint', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Neuroptics Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Chassis Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'B', 'itemName': '5,000 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'B', 'itemName': '5,000 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'B', 'itemName': '100 Endo', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'C', 'itemName': '5,000 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'C', 'itemName': '5,000 Credits Cache', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Acquire The Incubator Segment', 'rotation': 'C', 'itemName': '100 Endo', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Family Reunion', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Hot Mess', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Sunkiller', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Table For Two', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Another Betrayer', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'Archon Amar', 'rotation': 'C', 'itemName': "Archon Amar's Shard", 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Archon Boreal', 'rotation': 'C', 'itemName': "Archon Boreal's Shard", 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Archon Nira', 'rotation': 'C', 'itemName': "Archon Nira's Shard", 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Time's Up", 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Vitality', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Fast Deflection', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Rush', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Magazine Warp', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Trick Mag', 'rarity': 'Uncommon', 'chance': 15.18, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Ammo Drum', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith P9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith G13 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith X1 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith M9 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith N16 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith A6 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'A', 'itemName': 'Lith W4 Relic', 'rarity': 'Rare', 'chance': 2.21, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Speed Trigger', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Fast Hands', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Point Strike', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Vital Sense', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Piercing Hit', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Metal Auger', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Pistol Gambit', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Target Cracker', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'No Return', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Ravage', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Blunderbuss', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Point Blank', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Serration', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Hornet Strike', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Fury', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Reflex Coil', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Pressure Point', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'B', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 1.58, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Convulsion', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Shocking Touch', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Stormbringer', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Split Chamber', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Stretch', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Continuity', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Master Thief', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso F5 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso T7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso E6 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso N17 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso A7 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso V10 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Meso G8 Relic', 'rarity': 'Rare', 'chance': 8.43, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo W2 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo G8 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo Z11 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo P7 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo L4 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo A13 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': 'The Aftermath', 'rotation': 'C', 'itemName': 'Neo Q1 Relic', 'rarity': 'Rare', 'chance': 2.01, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Rifle Riven Mod', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Pistol Riven Mod', 'rarity': 'Uncommon', 'chance': 25, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Shotgun Riven Mod', 'rarity': 'Rare', 'chance': 8, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Melee Riven Mod', 'rarity': 'Common', 'chance': 35, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Zaw Riven Mod', 'rarity': 'Rare', 'chance': 3.5, 'tablename': 'keyRewards'}
+{'keyName': "Enter Nihil's Oubliette", 'rotation': 'C', 'itemName': 'Kitgun Riven Mod', 'rarity': 'Rare', 'chance': 3.5, 'tablename': 'keyRewards'}
+{'keyName': 'The Xoris', 'rotation': 'A', 'itemName': 'Xoris Handle', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'The Xoris', 'rotation': 'B', 'itemName': 'Xoris Core', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'The Xoris', 'rotation': 'C', 'itemName': 'Xoris Blade', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Baro Void-Signal', 'rotation': 'C', 'itemName': 'Elixis Latron Shoulder Plate', 'rarity': 'Uncommon', 'chance': 20, 'tablename': 'keyRewards'}
+{'keyName': 'Baro Void-Signal', 'rotation': 'C', 'itemName': 'Elixis Latron Leg Plate', 'rarity': 'Uncommon', 'chance': 20, 'tablename': 'keyRewards'}
+{'keyName': 'Baro Void-Signal', 'rotation': 'C', 'itemName': 'Elixis Latron Chest Plate', 'rarity': 'Uncommon', 'chance': 20, 'tablename': 'keyRewards'}
+{'keyName': 'Baro Void-Signal', 'rotation': 'C', 'itemName': 'Noggle Statue - Inaros Sarcophagus', 'rarity': 'Uncommon', 'chance': 20, 'tablename': 'keyRewards'}
+{'keyName': 'Baro Void-Signal', 'rotation': 'C', 'itemName': 'Inaros Osiris Helmet', 'rarity': 'Uncommon', 'chance': 20, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Aviator', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Rage', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Enemy Sense', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Deflection', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Rebuke', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Repair', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Augur', 'rarity': 'Rare', 'chance': 4.55, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': '500 Endo', 'rarity': 'Common', 'chance': 68.18, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Barrel', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Receiver', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Stock', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': '750 Endo', 'rarity': 'Common', 'chance': 77.78, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Chassis Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Systems Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Cordatus Helmet Blueprint', 'rarity': 'Rare', 'chance': 5.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 72.22, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Systems Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Cordatus Helmet Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Barrel', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Receiver', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Stock', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': '2000 Endo', 'rarity': 'Common', 'chance': 55.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Aviator', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rage', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Enemy Sense', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Deflection', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rebuke', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Repair', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Augur', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Systems Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Cordatus Helmet Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Barrel', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Receiver', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Stock', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': '2000 Endo', 'rarity': 'Common', 'chance': 55.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Aviator', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rage', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Enemy Sense', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Deflection', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rebuke', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Repair', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Augur', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Aviator', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Rage', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Enemy Sense', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Deflection', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Rebuke', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Repair', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Necramech Augur', 'rarity': 'Rare', 'chance': 6.52, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': '750 Endo', 'rarity': 'Common', 'chance': 54.35, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Barrel', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Receiver', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Stock', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': '1500 Endo', 'rarity': 'Common', 'chance': 76.93, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Chassis Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Neuroptics Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Systems Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Lavos Cordatus Helmet Blueprint', 'rarity': 'Rare', 'chance': 5.77, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': '2250 Endo', 'rarity': 'Common', 'chance': 71.16, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Chassis Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Neuroptics Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Systems Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': 'Lavos Cordatus Helmet Blueprint', 'rarity': 'Uncommon', 'chance': 22.22, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'A', 'itemName': '1000 Endo', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Blueprint', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Barrel', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Receiver', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': 'Cedo Stock', 'rarity': 'Uncommon', 'chance': 11.11, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'B', 'itemName': '2000 Endo', 'rarity': 'Common', 'chance': 55.56, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Aviator', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rage', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Enemy Sense', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Deflection', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Rebuke', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Repair', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Operation: Orphix Venom', 'rotation': 'C', 'itemName': 'Necramech Augur', 'rarity': 'Uncommon', 'chance': 14.29, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Neuroptics Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Chassis Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Mutalist Alad V Assassinate', 'rotation': 'C', 'itemName': 'Mesa Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'keyRewards'}
+{'keyName': 'Orokin Derelict Assassinate', 'rotation': 'C', 'itemName': 'Nekros Chassis Blueprint', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Orokin Derelict Assassinate', 'rotation': 'C', 'itemName': 'Nekros Neuroptics Blueprint', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Orokin Derelict Assassinate', 'rotation': 'C', 'itemName': 'Nekros Systems Blueprint', 'rarity': 'Common', 'chance': 33.33, 'tablename': 'keyRewards'}
+{'keyName': 'Abyssal Beacon', 'rotation': 'C', 'itemName': '6X Vainthorn', 'rarity': 'Common', 'chance': 33.3, 'tablename': 'keyRewards'}
+{'keyName': 'Abyssal Beacon', 'rotation': 'C', 'itemName': '7X Vainthorn', 'rarity': 'Common', 'chance': 33.4, 'tablename': 'keyRewards'}
+{'keyName': 'Abyssal Beacon', 'rotation': 'C', 'itemName': '8X Vainthorn', 'rarity': 'Common', 'chance': 33.3, 'tablename': 'keyRewards'}
+{'keyName': 'Murex Raid', 'rotation': 'A', 'itemName': '80 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Murex Raid', 'rotation': 'B', 'itemName': '80 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Murex Raid', 'rotation': 'C', 'itemName': '80 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Jordas Golem Assassinate', 'rotation': 'C', 'itemName': 'Atlas Neuroptics Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Jordas Golem Assassinate', 'rotation': 'C', 'itemName': 'Atlas Chassis Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Jordas Golem Assassinate', 'rotation': 'C', 'itemName': 'Atlas Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'keyRewards'}
+{'keyName': 'Ground Assault', 'rotation': 'A', 'itemName': '500 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Ground Assault', 'rotation': 'B', 'itemName': '500 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Ground Assault', 'rotation': 'C', 'itemName': '500 Endo', 'rarity': 'Common', 'chance': 100, 'tablename': 'keyRewards'}
+{'keyName': 'Vay Hek Frequency Triangulator', 'rotation': 'C', 'itemName': 'Hydroid Neuroptics Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Vay Hek Frequency Triangulator', 'rotation': 'C', 'itemName': 'Hydroid Chassis Blueprint', 'rarity': 'Common', 'chance': 38.72, 'tablename': 'keyRewards'}
+{'keyName': 'Vay Hek Frequency Triangulator', 'rotation': 'C', 'itemName': 'Hydroid Systems Blueprint', 'rarity': 'Uncommon', 'chance': 22.56, 'tablename': 'keyRewards'}

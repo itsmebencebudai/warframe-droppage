@@ -1,0 +1,55 @@
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Anti-Grav Array', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Odomedic', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': "Kavat's Grace", 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Cinder Machinist', 'itemName': 'Gale Kick', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Anti-Grav Array', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Odomedic', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': "Kavat's Grace", 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Kucumatz', 'itemName': 'Gale Kick', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Anti-Grav Array', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Odomedic', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': "Kavat's Grace", 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Arca Heqet', 'itemName': 'Gale Kick', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Anti-Grav Array', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Odomedic', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': "Kavat's Grace", 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Phase Moa', 'itemName': 'Gale Kick', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Anti-Grav Array', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Odomedic', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': "Kavat's Grace", 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Amalgam Swarm Satyr', 'itemName': 'Gale Kick', 'rarity': 'Uncommon', 'chance': 1, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Brachiolyst Disperser', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Corrupted Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Corrupted Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Erra', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Nightwatch Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Brachiolyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Summulyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Tyro Conculyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Ortholyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Symbilyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Vomvalyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Entrati Netracell Coffer', 'itemName': 'Entrati Lanthorn', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Fortification', 'rarity': 'Uncommon', 'chance': 12.5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Retaliation', 'rarity': 'Uncommon', 'chance': 12.5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Exposure', 'rarity': 'Uncommon', 'chance': 6.25, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Animosity', 'rarity': 'Uncommon', 'chance': 6.25, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Influence', 'rarity': 'Uncommon', 'chance': 6.25, 'tablename': 'additionalItemByAvatar'}
+{'source': 'The Fragmented Suzerain', 'itemName': 'Melee Vortex', 'rarity': 'Uncommon', 'chance': 6.25, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Mutalist Osprey Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Corpus Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Kuva Hellion Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Kuva Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Hellion Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Grineer Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Jackal', 'itemName': 'Riven Sliver', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Conculyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Battalyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Decaying Conculyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Decaying Battalyst', 'itemName': 'Intact Sentient Core', 'rarity': 'Common', 'chance': 50, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Shadow Stalker', 'itemName': 'Smoking Body Ephemera Blueprint', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Deimos Mutalist Osprey Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Protector Stalker', 'itemName': 'Smoking Body Ephemera Blueprint', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Narmer Power Carrier', 'itemName': 'Powercell', 'rarity': 'Common', 'chance': 100, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Shocking Step Ephemera Blueprint', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
+{'source': 'Exploiter Orb', 'itemName': 'Freezing Step Ephemera Blueprint', 'rarity': 'Common', 'chance': 5, 'tablename': 'additionalItemByAvatar'}
