@@ -5,6 +5,8 @@ import { Search } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
 import { ResultsTable } from "@/components/ResultsTable";
 import { loadAllItems, searchItems } from "@/lib/api";
+import { ThemeToggle } from "@/components/ThemeToggle";
+import { AuthPopup } from "@/components/AuthPopup";
 import {
   Pagination,
   PaginationContent,
@@ -43,6 +45,9 @@ const Index = () => {
 
   return (
     <div className="min-h-screen p-4 md:p-8">
+      <ThemeToggle />
+      <AuthPopup />
+      
       <div className="max-w-6xl mx-auto space-y-6">
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
