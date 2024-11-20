@@ -63,9 +63,79 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     return cleanedBounty || 'Unknown Bounty';
   };
 
+  const renderSource = (item: any) => {
+    if (item.tablename === "sortieRewards") {
+      return <span>Sortie</span>;
+    }
+    
+    if (item.tablename === "transientRewards" && item.objectiveName) {
+      return item.objectiveName;
+    }
+
+    if (item.objectiveName || item.source || item.enemyName) {
+      const sourceName = item.objectiveName || item.source || item.enemyName;
+      return (
+        <a 
+          href={`https://warframe.fandom.com/wiki/${sourceName}`} 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="text-primary hover:underline"
+        >
+          {sourceName}
+        </a>
+      );
+    }
+
+    if (item.gameMode) {
+      return (
+        <span>
+          ({item.planet}) {item.location}:
+          <br />
+          <a 
+            href={`https://warframe.fandom.com/wiki/${item.gameMode}`} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-primary hover:underline"
+          >
+            {item.gameMode}
+          </a>
+        </span>
+      );
+    }
+
+    if (item.relicName) {
+      const relicStateMap: { [key: string]: string } = {
+        "Intact": "(0 traces)",
+        "Exceptional": "(25 traces)",
+        "Flawless": "(50 traces)",
+        "Radiant": "(100 traces)"
+      };
+
+      return (
+        <span>
+          <a 
+            href={`https://warframe.fandom.com/wiki/${item.relicTier}_${item.relicName}`} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="text-primary hover:underline"
+          >
+            {item.relicTier} {item.relicName}
+          </a>
+          <span> </span>
+          ({item.relicState} {relicStateMap[item.relicState] || "Unknown"})
+        </span>
+      );
+    }
+
+    if (item.keyName) return item.keyName;
+    if (item.bountyLevel) return item.bountyLevel;
+    if (item.syndicateName) return `${item.syndicateName} (${item.standing} standing)`;
+
+    return '-';
+  };
+
   // Flatten all results into a single array
   const allResults = data.flatMap(tableData => tableData.results);
-
   let sortedResults = [...allResults];
 
   if (sortColumn) {
@@ -155,9 +225,12 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
             {limitedResults.map((result: any, resultIndex: number) => (
               <TableRow key={`result-${resultIndex}`} className="hover:bg-muted/50">
                 {columnHeaders.map((header) => (
-                  <TableCell key={header} className={header === 'source' && !result[header] ? 'text-center' : ''}>
-                    {header === 'source' && !result[header] ? 
-                      '-' : 
+                  <TableCell 
+                    key={header} 
+                    className={header === 'source' && !result[header] ? 'text-center' : ''}
+                  >
+                    {header === 'source' ? 
+                      renderSource(result) :
                       header === 'chance' ? 
                         `${result[header]}%` :
                         result[header]}
