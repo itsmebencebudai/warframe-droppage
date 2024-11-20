@@ -17,7 +17,7 @@ interface ResultsTableProps {
 export const ResultsTable = ({ data }: ResultsTableProps) => {
   const [sortColumn, setSortColumn] = useState('');
   const [sortOrder, setSortOrder] = useState('asc');
-  const [displayLimit, setDisplayLimit] = useState(100);
+  const [displayLimit, setDisplayLimit] = useState(50);
 
   if (!data || data.length === 0) return null;
 
@@ -188,11 +188,11 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     });
   }
 
-  // Get all unique column names from the first result
+  // Get all unique column names from the first result, excluding unwanted columns
   const getColumnHeaders = () => {
     if (data[0]?.results?.[0]) {
       return Object.keys(data[0].results[0])
-        .filter(key => key !== 'tablename' && key !== 'id');
+        .filter(key => !['tablename', 'id', 'isEvent'].includes(key));
     }
     return [];
   };
