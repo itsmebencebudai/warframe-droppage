@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import {
   Dialog,
@@ -16,11 +16,20 @@ export const AuthPopup = () => {
   const [isLogin, setIsLogin] = useState(true);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [scrolled, setScrolled] = useState(false);
   const { toast } = useToast();
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 10);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Implement actual auth logic
     toast({
       title: isLogin ? "Login Successful" : "Registration Successful",
       description: "This is a demo message. Actual authentication needs to be implemented.",
@@ -30,7 +39,13 @@ export const AuthPopup = () => {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button variant="ghost" size="icon" className="fixed top-4 right-4">
+        <Button 
+          variant="ghost" 
+          size="icon" 
+          className={`fixed top-4 right-4 transition-all duration-200 ${
+            scrolled ? "bg-background/80 backdrop-blur-sm shadow-sm" : ""
+          }`}
+        >
           <User className="h-5 w-5" />
         </Button>
       </DialogTrigger>
