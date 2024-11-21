@@ -25,8 +25,19 @@ const Index = () => {
   
   const { data, isLoading, error } = useQuery({
     queryKey: ['warframeData', searchTerm, currentPage],
-    queryFn: () => searchTerm ? searchItems(searchTerm, currentPage, ITEMS_PER_PAGE) : loadAllItems(),
-    retry: 3,
+    queryFn: async () => {
+      try {
+        if (searchTerm) {
+          return await searchItems(searchTerm, currentPage, ITEMS_PER_PAGE);
+        } else {
+          return await loadAllItems();
+        }
+      } catch (err) {
+        console.error("Query error:", err);
+        throw err;
+      }
+    },
+    retry: false,
   });
 
   if (error) {
