@@ -8,27 +8,24 @@ import { loadAllItems, searchItems } from "@/lib/api";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { AuthPopup } from "@/components/AuthPopup";
 import {
-  Pagination,
-  PaginationContent,
-  PaginationItem,
-  PaginationLink,
-  PaginationNext,
-  PaginationPrevious,
-} from "@/components/ui/pagination";
-
-const ITEMS_PER_PAGE = 20;
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 
 const Index = () => {
   const [searchTerm, setSearchTerm] = useState("");
-  const [currentPage, setCurrentPage] = useState(1);
+  const [sourceType, setSourceType] = useState("all");
   const { toast } = useToast();
   
   const { data, isLoading, error } = useQuery({
-    queryKey: ['warframeData', searchTerm, currentPage],
+    queryKey: ['warframeData', searchTerm],
     queryFn: async () => {
       try {
         if (searchTerm) {
-          return await searchItems(searchTerm, currentPage, ITEMS_PER_PAGE);
+          return await searchItems(searchTerm);
         } else {
           return await loadAllItems();
         }
@@ -49,10 +46,23 @@ const Index = () => {
     });
   }
 
-  const handlePageChange = (page: number) => {
-    setCurrentPage(page);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
+  const filteredData = data ? data.filter(item => {
+    if (sourceType === "all") return true;
+    switch (sourceType) {
+      case "bountyLevel":
+        return item.bountyLevel;
+      case "objectiveName":
+        return item.objectiveName;
+      case "enemyName":
+        return item.enemyName;
+      case "gameMode":
+        return item.gameMode;
+      case "relicName":
+        return item.relicName;
+      default:
+        return true;
+    }
+  }) : [];
 
   return (
     <div className="min-h-screen p-4 md:p-8">
@@ -69,18 +79,30 @@ const Index = () => {
           </p>
         </div>
 
-        <div className="relative flex-1 mb-8">
-          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" />
-          <Input
-            type="text"
-            placeholder="Search for items..."
-            className="pl-10"
-            value={searchTerm}
-            onChange={(e) => {
-              setSearchTerm(e.target.value);
-              setCurrentPage(1);
-            }}
-          />
+        <div className="flex gap-4 mb-8">
+          <div className="relative flex-1">
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground" />
+            <Input
+              type="text"
+              placeholder="Search for items..."
+              className="pl-10"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+            />
+          </div>
+          <Select value={sourceType} onValueChange={setSourceType}>
+            <SelectTrigger className="w-[200px]">
+              <SelectValue placeholder="Filter by source" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="all">All Sources</SelectItem>
+              <SelectItem value="bountyLevel">Bounty Level</SelectItem>
+              <SelectItem value="objectiveName">Objective Name</SelectItem>
+              <SelectItem value="enemyName">Enemy Name</SelectItem>
+              <SelectItem value="gameMode">Game Mode</SelectItem>
+              <SelectItem value="relicName">Relic Name</SelectItem>
+            </SelectContent>
+          </Select>
         </div>
 
         {isLoading && (
@@ -90,37 +112,11 @@ const Index = () => {
           </div>
         )}
 
-        {!isLoading && !error && data && (
-          <>
-            <ResultsTable data={data} />
-            
-            <div className="mt-4">
-              <Pagination>
-                <PaginationContent>
-                  <PaginationItem>
-                    <PaginationPrevious 
-                      onClick={() => handlePageChange(currentPage - 1)}
-                      className={currentPage === 1 ? "pointer-events-none opacity-50" : "cursor-pointer"}
-                    />
-                  </PaginationItem>
-                  
-                  <PaginationItem>
-                    <PaginationLink isActive>{currentPage}</PaginationLink>
-                  </PaginationItem>
-                  
-                  <PaginationItem>
-                    <PaginationNext
-                      onClick={() => handlePageChange(currentPage + 1)}
-                      className="cursor-pointer"
-                    />
-                  </PaginationItem>
-                </PaginationContent>
-              </Pagination>
-            </div>
-          </>
+        {!isLoading && !error && filteredData && (
+          <ResultsTable data={filteredData} />
         )}
 
-        {!isLoading && !error && (!data || data.length === 0) && searchTerm && (
+        {!isLoading && !error && (!filteredData || filteredData.length === 0) && searchTerm && (
           <div className="text-center py-12 text-muted-foreground">
             No items found matching your search.
           </div>

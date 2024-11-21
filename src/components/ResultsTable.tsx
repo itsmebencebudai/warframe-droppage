@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/table";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { ArrowUpDown, ArrowDown } from "lucide-react";
+import { ArrowUpDown } from "lucide-react";
 import { SourceCell } from "./table/SourceCell";
 import { 
   getRotationValue, 
@@ -24,7 +24,6 @@ interface ResultsTableProps {
 export const ResultsTable = ({ data }: ResultsTableProps) => {
   const [sortColumn, setSortColumn] = useState('');
   const [sortOrder, setSortOrder] = useState('asc');
-  const [displayLimit, setDisplayLimit] = useState(50);
 
   if (!data || data.length === 0) return null;
 
@@ -33,9 +32,7 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     setSortOrder((prevOrder) => prevOrder === 'asc' ? 'desc' : 'asc');
   };
 
-  // Flatten all results into a single array
-  const allResults = data.flatMap(tableData => tableData.results);
-  let sortedResults = [...allResults];
+  let sortedResults = [...data];
 
   if (sortColumn) {
     sortedResults.sort((a, b) => {
@@ -82,69 +79,77 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     });
   }
 
-  const getColumnHeaders = () => {
-    if (data[0]?.results?.[0]) {
-      return Object.keys(data[0].results[0])
-        .filter(key => !['tablename', 'id', 'isEvent'].includes(key));
-    }
-    return [];
-  };
-
-  const columnHeaders = getColumnHeaders();
-  const limitedResults = sortedResults.slice(0, displayLimit);
-  const hasMoreResults = sortedResults.length > displayLimit;
-
   return (
-    <div className="space-y-4">
-      <div className="rounded-md border">
-        <Table>
-          <TableHeader>
-            <TableRow>
-              {columnHeaders.map((header) => (
-                <TableHead key={header}>
-                  <Button
-                    variant="ghost"
-                    onClick={() => handleSort(header)}
-                    className="flex items-center gap-2"
-                  >
-                    {header.charAt(0).toUpperCase() + header.slice(1)}
-                    <ArrowUpDown className="h-4 w-4" />
-                  </Button>
-                </TableHead>
-              ))}
+    <div className="rounded-md border">
+      <Table>
+        <TableHeader>
+          <TableRow>
+            <TableHead>
+              <Button
+                variant="ghost"
+                onClick={() => handleSort('source')}
+                className="flex items-center gap-2"
+              >
+                Source
+                <ArrowUpDown className="h-4 w-4" />
+              </Button>
+            </TableHead>
+            <TableHead>
+              <Button
+                variant="ghost"
+                onClick={() => handleSort('itemName')}
+                className="flex items-center gap-2"
+              >
+                Item Name
+                <ArrowUpDown className="h-4 w-4" />
+              </Button>
+            </TableHead>
+            <TableHead>
+              <Button
+                variant="ghost"
+                onClick={() => handleSort('chance')}
+                className="flex items-center gap-2"
+              >
+                Chance
+                <ArrowUpDown className="h-4 w-4" />
+              </Button>
+            </TableHead>
+            <TableHead>
+              <Button
+                variant="ghost"
+                onClick={() => handleSort('rotation')}
+                className="flex items-center gap-2"
+              >
+                Rotation
+                <ArrowUpDown className="h-4 w-4" />
+              </Button>
+            </TableHead>
+            <TableHead>
+              <Button
+                variant="ghost"
+                onClick={() => handleSort('rarity')}
+                className="flex items-center gap-2"
+              >
+                Rarity
+                <ArrowUpDown className="h-4 w-4" />
+              </Button>
+            </TableHead>
+          </TableRow>
+        </TableHeader>
+        <TableBody>
+          {sortedResults.map((item: any, index: number) => (
+            <TableRow key={`result-${index}`} className="hover:bg-muted/50">
+              <TableCell>
+                <SourceCell item={item} />
+              </TableCell>
+              <TableCell>{item.itemName}</TableCell>
+              <TableCell>{item.chance}%</TableCell>
+              <TableCell>{item.rotation || '-'}</TableCell>
+              <TableCell>{item.rarity || '-'}</TableCell>
             </TableRow>
-          </TableHeader>
-          <TableBody>
-            {limitedResults.map((result: any, resultIndex: number) => (
-              <TableRow key={`result-${resultIndex}`} className="hover:bg-muted/50">
-                {columnHeaders.map((header) => (
-                  <TableCell key={header}>
-                    {header === 'source' ? (
-                      <SourceCell item={result} />
-                    ) : header === 'chance' ? (
-                      `${result[header]}%`
-                    ) : (
-                      result[header]
-                    )}
-                  </TableCell>
-                ))}
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
-      </div>
-      
-      {hasMoreResults && (
-        <div className="flex justify-center">
-          <Button
-            onClick={() => setDisplayLimit(prev => prev + 50)}
-            className="flex items-center gap-2"
-          >
-            Load More
-            <ArrowDown className="h-4 w-4" />
-          </Button>
-        </div>
-      )}
+          ))}
+        </TableBody>
+      </Table>
     </div>
   );
 };
