@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px 15px;
+}
+
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th button {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  padding: 5px;
+}
+
+th button:focus {
+  outline: none;
+}
+
+th,
+td {
+  white-space: nowrap;
+}
+
+.item-name {
+  width: 200px;
+}
+
+.rarity {
+  width: 150px;
+}
+
+.chance {
+  width: 100px;
+}
+
+.source {
+  width: 200px;
+}
+
+.rotation {
+  width: 100px;
+}
+
+.stage {
+  width: 100px;
+}
