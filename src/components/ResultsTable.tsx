@@ -32,7 +32,11 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
     setSortOrder((prevOrder) => prevOrder === 'asc' ? 'desc' : 'asc');
   };
 
+<<<<<<< Updated upstream
   let sortedResults = [...data];
+=======
+  const sortedResults = [...data];
+>>>>>>> Stashed changes
 
   if (sortColumn) {
     sortedResults.sort((a, b) => {
@@ -143,7 +147,11 @@ export const ResultsTable = ({ data }: ResultsTableProps) => {
                 <SourceCell item={item} />
               </TableCell>
               <TableCell>{item.itemName}</TableCell>
+<<<<<<< Updated upstream
               <TableCell>{item.chance}%</TableCell>
+=======
+              <TableCell>{item.chance || '-'} %</TableCell>
+>>>>>>> Stashed changes
               <TableCell>{item.rotation || '-'}</TableCell>
               <TableCell>{item.rarity || '-'}</TableCell>
             </TableRow>

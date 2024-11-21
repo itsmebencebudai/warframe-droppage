@@ -1,6 +1,6 @@
-export async function searchItems(query: string = '', page: number = 1, limit: number = 20) {
-  console.log('Searching items with query:', query, 'page:', page, 'limit:', limit);
-  const response = await fetch(`http://localhost:5000/search?query=${encodeURIComponent(query)}&page=${page}&limit=${limit}`, {
+export async function searchItems(query: string = '') {
+  console.log('Searching items with query:', query);
+  const response = await fetch(`http://localhost:5000/search?query=${encodeURIComponent(query)}`, {
     method: 'GET',
     headers: {
       'Accept': 'application/json',
